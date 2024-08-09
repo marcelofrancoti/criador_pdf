@@ -1,0 +1,178 @@
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Infra.Data.dll.config
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Infra.Data.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Infra.Data.pdb
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\Dapper.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\DomainValidation.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Domain.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Domain.pdb
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\Dapper.pdb
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\Dapper.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.csprojResolveAssemblyReference.cache
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.csproj.CopyComplete
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.pdb
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Infra.Data.dll.config
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Infra.Data.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Infra.Data.pdb
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\Dapper.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\DomainValidation.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Domain.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Domain.pdb
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\Dapper.pdb
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\Dapper.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.pdb
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Infra.Data.dll.config
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Infra.Data.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Infra.Data.pdb
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\Dapper.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\DomainValidation.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Domain.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Domain.pdb
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\Dapper.pdb
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\Dapper.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.pdb
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Infra.Data.dll.config
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Infra.Data.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Infra.Data.pdb
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\Dapper.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\DomainValidation.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Domain.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Domain.pdb
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\Dapper.pdb
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\Dapper.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.csprojAssemblyReference.cache
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.csproj.CopyComplete
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Infra.Data.dll.config
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Infra.Data.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Infra.Data.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\Dapper.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\DomainValidation.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Domain.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Domain.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\Dapper.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\Dapper.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.csprojAssemblyReference.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.csproj.CopyComplete
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Infra.Data.dll.config
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Infra.Data.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Infra.Data.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Infra.Data\bin\Debug\Dapper.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Infra.Data\bin\Debug\DomainValidation.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Domain.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Domain.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Infra.Data\bin\Debug\Dapper.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Infra.Data\bin\Debug\Dapper.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.csprojAssemblyReference.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.csproj.CopyComplete
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Infra.Data.dll.config
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Infra.Data.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Infra.Data.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Infra.Data\bin\Debug\Dapper.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Infra.Data\bin\Debug\DomainValidation.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Domain.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Domain.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Infra.Data\bin\Debug\Dapper.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Infra.Data\bin\Debug\Dapper.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.csprojAssemblyReference.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.csproj.CopyComplete
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Infra.Data.dll.config
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Infra.Data.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Infra.Data.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\Dapper.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\DomainValidation.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Domain.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Domain.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\Dapper.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\Dapper.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.csprojAssemblyReference.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.csproj.CopyComplete
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.pdb
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Infra.Data.dll.config
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Infra.Data.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Infra.Data.pdb
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\Dapper.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\DomainValidation.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Domain.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Domain.pdb
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\Dapper.pdb
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\Dapper.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.csproj.CopyComplete
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.pdb
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Infra.Data.dll.config
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Infra.Data.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Infra.Data.pdb
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\Dapper.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\DomainValidation.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Domain.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\OP.PortalOncoprod.Domain.pdb
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\Dapper.pdb
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\Dapper.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.csproj.CopyComplete
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.Data\obj\Debug\OP.PortalOncoprod.Infra.Data.pdb

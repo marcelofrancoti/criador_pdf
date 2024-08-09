@@ -1,0 +1,72 @@
+﻿
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Index";
+}
+
+@using (Html.BeginForm())
+{
+
+    <label id="title">Cadastrar Cliente</label>
+    <br />
+    <button id="AdcionarLista">Adicionar Itens</button>
+    <br /><br />
+    @Html.Partial("ListaSelecionados");
+    @Html.Partial("ListaNaoSelecionados");
+
+}
+
+
+<script type="text/javascript">
+
+    $(document).ready(function () {
+        //$('#usuariosNaoSelecionados').DataTable();
+        //$('#usuariosSelecionados').DataTable();
+    });
+
+    var myArray = [];
+
+    $("#AdcionarLista").click(function AdcionarItens() {
+
+        var url = "/cadusuario/RecarregarTabelaSelecionada";
+
+        for (var i = 0; i < Array.length; i++) {
+            var postData = Array[i];
+            ViewData["NovoUsuario"] = myArray[i];
+
+        }
+
+        $.ajax({
+            url: url
+            , datatype: "html"
+            , type: 'POST'
+            , data: { postData }
+            , success: function (data) {
+
+            }
+            , error: function (jqXHR, exception) {
+                TratamendodeErro(jqXHR, exception)
+            }
+        });
+
+
+    });
+    function ItemNaoSelecionado(id) {
+        $("#check2_" + id).addClass('invisible');
+        $("#check_" + id).removeClass('invisible');
+        return false;
+    }
+
+
+
+    function getParameterByName(name, url) {
+        if (!url) url = window.location.href;
+        name = name.replace(/[\[\]]/g, '\\$&');
+        var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+            results = regex.exec(url);
+        if (!results) return null;
+        if (!results[2]) return '';
+        return decodeURIComponent(results[2].replace(/\+/g, ' '));
+    }
+</script>

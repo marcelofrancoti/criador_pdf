@@ -1,0 +1,313 @@
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Services.REST.ClienteAPI.dll.config
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Services.REST.ClienteAPI.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Services.REST.ClienteAPI.pdb
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Newtonsoft.Json.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Application.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.CrossCutting.IoC.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.Extensions.ExecutionContextScoping.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.Integration.WebApi.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Net.Http.Formatting.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Web.Http.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Web.Http.WebHost.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\WebActivator.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.Data.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Domain.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\AutoMapper.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\EntityFramework.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Dapper.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Application.pdb
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.CrossCutting.IoC.pdb
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.Extensions.ExecutionContextScoping.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.Integration.WebApi.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Newtonsoft.Json.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Net.Http.Formatting.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Web.Http.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Web.Http.WebHost.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.Data.pdb
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.Data.dll.config
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Domain.pdb
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\AutoMapper.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.pdb
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll.config
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\EntityFramework.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Dapper.pdb
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Dapper.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\obj\Debug\OP.PortalOncoprod.Services.REST.ClienteAPI.csprojResolveAssemblyReference.cache
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\obj\Debug\OP.PortalOncoprod.Services.REST.ClienteAPI.csproj.CoreCompileInputs.cache
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\obj\Debug\OP.PortalOncoprod.Services.REST.ClienteAPI.csproj.CopyComplete
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\obj\Debug\OP.PortalOncoprod.Services.REST.ClienteAPI.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\obj\Debug\OP.PortalOncoprod.Services.REST.ClienteAPI.pdb
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Services.REST.ClienteAPI.dll.config
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Services.REST.ClienteAPI.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Services.REST.ClienteAPI.pdb
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Newtonsoft.Json.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Application.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.CrossCutting.IoC.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.Extensions.ExecutionContextScoping.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.Integration.WebApi.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Web.Http.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\WebActivator.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.Data.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Domain.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\AutoMapper.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Dapper.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\EntityFramework.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Application.pdb
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.CrossCutting.IoC.pdb
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.Extensions.ExecutionContextScoping.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.Integration.WebApi.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Newtonsoft.Json.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Web.Http.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.Data.pdb
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.Data.dll.config
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Domain.pdb
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\AutoMapper.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.pdb
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll.config
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Dapper.pdb
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Dapper.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\EntityFramework.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\obj\Debug\OP.PortalOncoprod.Services.REST.ClienteAPI.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\obj\Debug\OP.PortalOncoprod.Services.REST.ClienteAPI.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\obj\Debug\OP.PortalOncoprod.Services.REST.ClienteAPI.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\obj\Debug\OP.PortalOncoprod.Services.REST.ClienteAPI.pdb
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Services.REST.ClienteAPI.dll.config
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Services.REST.ClienteAPI.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Services.REST.ClienteAPI.pdb
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Newtonsoft.Json.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Application.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.CrossCutting.IoC.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.Extensions.ExecutionContextScoping.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.Integration.WebApi.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Web.Http.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\WebActivator.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.Data.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Domain.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\AutoMapper.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Dapper.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\EntityFramework.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Application.pdb
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.CrossCutting.IoC.pdb
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.Extensions.ExecutionContextScoping.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.Integration.WebApi.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Newtonsoft.Json.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Web.Http.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.Data.pdb
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.Data.dll.config
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Domain.pdb
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\AutoMapper.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.pdb
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll.config
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Dapper.pdb
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Dapper.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\EntityFramework.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\obj\Debug\OP.PortalOncoprod.Services.REST.ClienteAPI.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\obj\Debug\OP.PortalOncoprod.Services.REST.ClienteAPI.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\obj\Debug\OP.PortalOncoprod.Services.REST.ClienteAPI.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\obj\Debug\OP.PortalOncoprod.Services.REST.ClienteAPI.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Services.REST.ClienteAPI.dll.config
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Services.REST.ClienteAPI.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Services.REST.ClienteAPI.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Newtonsoft.Json.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Application.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.CrossCutting.IoC.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.Extensions.ExecutionContextScoping.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.Integration.WebApi.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Web.Http.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\WebActivator.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.Data.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Domain.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\AutoMapper.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Dapper.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\EntityFramework.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Application.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.CrossCutting.IoC.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.Extensions.ExecutionContextScoping.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.Integration.WebApi.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Newtonsoft.Json.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Web.Http.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.Data.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.Data.dll.config
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Domain.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\AutoMapper.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll.config
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Dapper.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Dapper.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\EntityFramework.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\obj\Debug\OP.PortalOncoprod.Services.REST.ClienteAPI.csprojAssemblyReference.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\obj\Debug\OP.PortalOncoprod.Services.REST.ClienteAPI.csproj.CoreCompileInputs.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\obj\Debug\OP.PortalOncoprod.Services.REST.ClienteAPI.csproj.CopyComplete
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\obj\Debug\OP.PortalOncoprod.Services.REST.ClienteAPI.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Services.REST.ClienteAPI\obj\Debug\OP.PortalOncoprod.Services.REST.ClienteAPI.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Services.REST.ClienteAPI.dll.config
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Services.REST.ClienteAPI.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Services.REST.ClienteAPI.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Newtonsoft.Json.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Application.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.CrossCutting.IoC.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.Extensions.ExecutionContextScoping.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.Integration.WebApi.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Web.Http.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\WebActivator.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.Data.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Domain.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\AutoMapper.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Dapper.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\EntityFramework.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Application.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.CrossCutting.IoC.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.Extensions.ExecutionContextScoping.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.Integration.WebApi.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Newtonsoft.Json.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Web.Http.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.Data.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.Data.dll.config
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Domain.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\AutoMapper.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll.config
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Dapper.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Dapper.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\EntityFramework.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\obj\Debug\OP.PortalOncoprod.Services.REST.ClienteAPI.csprojAssemblyReference.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\obj\Debug\OP.PortalOncoprod.Services.REST.ClienteAPI.csproj.CoreCompileInputs.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\obj\Debug\OP.PortalOncoprod.Services.REST.ClienteAPI.csproj.CopyComplete
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\obj\Debug\OP.PortalOncoprod.Services.REST.ClienteAPI.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Services.REST.ClienteAPI\obj\Debug\OP.PortalOncoprod.Services.REST.ClienteAPI.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Services.REST.ClienteAPI.dll.config
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Services.REST.ClienteAPI.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Services.REST.ClienteAPI.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Newtonsoft.Json.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Application.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.CrossCutting.IoC.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.Extensions.ExecutionContextScoping.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.Integration.WebApi.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Web.Http.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\WebActivator.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.Data.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Domain.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\AutoMapper.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Dapper.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\EntityFramework.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Application.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.CrossCutting.IoC.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.Extensions.ExecutionContextScoping.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.Integration.WebApi.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Newtonsoft.Json.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Web.Http.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.Data.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.Data.dll.config
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Domain.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\AutoMapper.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll.config
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Dapper.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Dapper.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\EntityFramework.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\obj\Debug\OP.PortalOncoprod.Services.REST.ClienteAPI.csprojAssemblyReference.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\obj\Debug\OP.PortalOncoprod.Services.REST.ClienteAPI.csproj.CoreCompileInputs.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\obj\Debug\OP.PortalOncoprod.Services.REST.ClienteAPI.csproj.CopyComplete
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\obj\Debug\OP.PortalOncoprod.Services.REST.ClienteAPI.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\obj\Debug\OP.PortalOncoprod.Services.REST.ClienteAPI.pdb
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Services.REST.ClienteAPI.dll.config
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Services.REST.ClienteAPI.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Services.REST.ClienteAPI.pdb
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Newtonsoft.Json.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Application.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.CrossCutting.IoC.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.Extensions.ExecutionContextScoping.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.Integration.WebApi.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Web.Http.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\WebActivator.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.Data.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Domain.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\AutoMapper.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Dapper.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\EntityFramework.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Application.pdb
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.CrossCutting.IoC.pdb
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.Extensions.ExecutionContextScoping.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\SimpleInjector.Integration.WebApi.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Newtonsoft.Json.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Web.Http.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.Data.pdb
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.Data.dll.config
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Domain.pdb
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\AutoMapper.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.pdb
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll.config
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Dapper.pdb
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Dapper.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\EntityFramework.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\obj\Debug\OP.PortalOncoprod.Services.REST.ClienteAPI.csproj.AssemblyReference.cache
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\obj\Debug\OP.PortalOncoprod.Services.REST.ClienteAPI.csproj.CoreCompileInputs.cache
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\obj\Debug\OP.PortalOncoprod.Services.REST.ClienteAPI.csproj.CopyComplete
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\obj\Debug\OP.PortalOncoprod.Services.REST.ClienteAPI.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Services.REST.ClienteAPI\obj\Debug\OP.PortalOncoprod.Services.REST.ClienteAPI.pdb

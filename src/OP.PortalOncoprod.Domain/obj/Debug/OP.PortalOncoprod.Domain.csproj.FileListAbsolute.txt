@@ -1,0 +1,194 @@
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\OP.PortalOncoprod.Domain.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\OP.PortalOncoprod.Domain.pdb
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\DomainValidation.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Mvc.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Razor.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Mvc.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Razor.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\Microsoft.Web.Infrastructure.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.csprojResolveAssemblyReference.cache
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.csproj.CoreCompileInputs.cache
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.csproj.CopyComplete
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.pdb
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\OP.PortalOncoprod.Domain.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\OP.PortalOncoprod.Domain.pdb
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\DomainValidation.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.pdb
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\OP.PortalOncoprod.Domain.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\OP.PortalOncoprod.Domain.pdb
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\DomainValidation.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.pdb
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\OP.PortalOncoprod.Domain.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\OP.PortalOncoprod.Domain.pdb
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\DomainValidation.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.csprojAssemblyReference.cache
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.csproj.CopyComplete
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\OP.PortalOncoprod.Domain.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\OP.PortalOncoprod.Domain.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\DomainValidation.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.csprojAssemblyReference.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.csproj.CopyComplete
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\bin\Debug\OP.PortalOncoprod.Domain.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\bin\Debug\OP.PortalOncoprod.Domain.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\bin\Debug\DomainValidation.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.csprojAssemblyReference.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.csproj.CopyComplete
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\bin\Debug\OP.PortalOncoprod.Domain.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\bin\Debug\OP.PortalOncoprod.Domain.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\bin\Debug\DomainValidation.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.csprojAssemblyReference.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.csproj.CopyComplete
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Debug\OP.PortalOncoprod.Domain.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Debug\OP.PortalOncoprod.Domain.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Debug\DomainValidation.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.csprojAssemblyReference.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.csproj.CopyComplete
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.pdb
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Debug\OP.PortalOncoprod.Domain.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Debug\OP.PortalOncoprod.Domain.pdb
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Debug\DomainValidation.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.csproj.AssemblyReference.cache
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.csproj.CoreCompileInputs.cache
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.csproj.CopyComplete
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.pdb
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\bin\Debug\OP.PortalOncoprod.Domain.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\bin\Debug\OP.PortalOncoprod.Domain.pdb
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\bin\Debug\DomainValidation.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.csproj.AssemblyReference.cache
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.csproj.CoreCompileInputs.cache
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.csproj.CopyComplete
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.pdb

@@ -1,0 +1,50 @@
+﻿@using OP.PortalOncoprod.UI.Mvc.Models
+@model OP.PortalOncoprod.Application.ViewModels.UsuarioViewModel
+
+@{
+    Layout = "~/Views/Shared/_LoginStart.cshtml";
+}
+
+<div class="modal show" tabindex="-1" role="dialog" aria-hidden="true" style="background-color: #ECF0F3">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-body">
+                <section id="loginForm">
+                    @using (Html.BeginForm("Login", "Usuario", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form col-md-12 center-block", role = "form" }))
+                    {
+                        @Html.AntiForgeryToken()
+                        @Html.ValidationSummary(true, "", new { @class = "alert alert-danger" })
+
+                            <div class="form-group text-center">
+                                <img src="~/Content/img/Oncoprod_monocromática.png" class="img-responsive  alt="Oncoprod" />
+                            </div>
+
+                        <div class="modal-header">
+                            <h2 class="text-center">Bem vindo!</h2>
+                            <h4 class="text-center">Por favor, digite o seu usuário e senha.</h4>
+                        </div>
+                        <div class="form-group">
+                            @Html.TextBoxFor(u => u.usuarioLogin, new { @class = "form-control input-lg", @placeholder = "Username" })
+                            @Html.ValidationMessageFor(u => u.usuarioLogin, "", new { @class = "text-danger" })
+                        </div>
+                        <div class="form-group">
+                            @Html.PasswordFor(u => u.usuarioSenha, new { @class = "form-control  input-lg", @placeholder = "Senha" })
+                            @Html.ValidationMessageFor(u => u.usuarioSenha, "", new { @class = "text-danger" })
+                        </div>
+                        <div class="form-group">
+                            <div>
+                                <input type="submit" value="Login" class="btn btn-primary btn-lg btn-block" />
+                            </div>
+                        </div>
+                    }
+                </section>
+            </div>
+        </div>
+    </div>
+</div>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+
+

@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Portal JSL</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/dataTables.bootstrap.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-1.10.2.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.15/jquery.mask.js"></script>
+</head>
+<body>
+    <div id="wrapper">
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a href="@Url.Action("Index","Home")">
+                        <span class="navbar-brand">
+                            <img src="~/Content/img/Logo_simPAR.png" alt="" class="img-responsive" width="90px" />
+                        </span>
+                    </a>
+                </div>
+                <div class="navbar-collapse collapse" style="margin:7px 0 0 0">
+                    <ul class="nav navbar-nav" style="color:aqua">
+                        <li>@Html.ActionLink("Regras DMS", "Index", "TabelaRegrasDMS")</li>
+                    </ul>
+                    @{
+                        string usuarioNome = "";
+                        string primeiroNome = "";
+                        var Usuario = Session["USUARIO"];
+
+                        if (Usuario != null)
+                        {
+                            usuarioNome = ((SistemaIndexador.Domain.Entities.Usuario)Usuario).usuarioNome;
+                            primeiroNome = usuarioNome.Substring(0, usuarioNome.IndexOf(" "));
+
+                            using (Html.BeginForm("Login", "Usuario", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+                            {
+                                @Html.AntiForgeryToken()
+
+                                <ul class="nav navbar-nav navbar-right">
+                                    <li>
+                                        @Html.ActionLink("Bem Vindo, " + primeiroNome, "Index", "CadUsuario", routeValues: null, htmlAttributes: new { title = "Usuario" })
+                                    </li>
+                                    <li> @Html.ActionLink("Sair", "Logout", "Usuario", routeValues: null, htmlAttributes: new { id = "logoutForm", @class = "navbar-right" })</li>
+                                </ul>
+                            }
+                        }
+                    }
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>@Html.ActionLink("Login", "Login", "Usuario", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        @Html.Partial("_Flash")
+        <div class="container body-content">
+            @RenderBody()
+        </div>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+
+
+    <script src="~/Scripts/jquery.dataTables.js"></script>
+    <script src="~/Scripts/dataTables.bootstrap.js"></script>
+    <script src="~/Scripts/bootstrap.js"></script>
+    <script src="~/Scripts/jquery.cookie.js"></script>
+    <script src="~/Scripts/jquery.flashmessage.js"></script>
+    <script src="~/Scripts/UsuarioScript.js"></script>
+    @RenderSection("scripts", false)
+</body>
+</html>

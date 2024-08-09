@@ -1,0 +1,230 @@
+﻿@model IEnumerable<OP.PortalOncoprod.Application.ViewModels.TabelaPrecoOncoprodViewModel>
+@using OP.PortalOncoprod.Application.ViewModels
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Index";
+}
+
+<br />
+<br />
+<br />
+@using (Html.BeginForm("Index", "TabelaPrecoOncoprod", FormMethod.Get))
+{
+    <div class="container-fluid" style="max-width: 100%;">
+
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item" style="text-transform: uppercase;"><a href="#">Tabela de Preço</a></li>
+                <li class="breadcrumb-item active" style="text-transform: uppercase;" aria-current="page">Consultar</li>
+            </ol>
+        </nav>
+
+        @{ var usuario = Session["USUARIO"];
+            string UsuarioId = System.Web.Configuration.WebConfigurationManager.AppSettings["UsuarioId"].ToString();
+
+        }
+
+
+        @if (((OP.PortalOncoprod.Domain.Entities.Usuario)usuario).usuarioId.Equals(UsuarioId))
+        {
+            <div class="row">
+                <div class="col-md-8">
+                    <div>
+                        <div class="pull-left">
+                            <a href="@Url.Action("ImportaExcel", "TabelaPrecoOncoprod")" class="btn btn-primary">
+                                Nova Tabela de Preço
+                                <span title="Detalhes" class="glyphicon glyphicon-plus-sign"></span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+        else
+        {
+
+        }
+
+        <br />
+        <div class="table-responsive">
+            <br />
+            <table id="tabela" class="tabela table table-striped table-bordered table-condensed table-hover" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.codigo)
+                        </th>
+                        @*<th>
+                                @Html.DisplayNameFor(model => model.dataAlteracao)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.margemMinima)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.margemVenda)
+                            </th>*@
+                        <th>
+                            @Html.DisplayNameFor(model => model.descricao)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.nomeQuimico)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.laboratorio)
+                        </th>
+                        @*<th>
+                                 @Html.DisplayNameFor(model => model.ncm)
+                            </th>*@
+                        @*<th>
+                                @Html.DisplayNameFor(model => model.lista)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.exclusivoHospitalar)
+                            </th>*@
+                        @*<th>
+                                @Html.DisplayNameFor(model => model.tipo)
+                            </th>*@
+                        @*<th>
+                                @Html.DisplayNameFor(model => model.resolucao13)
+                            </th>*@
+                        @*<th>
+                                @Html.DisplayNameFor(model => model.origem)
+                            </th>*@
+                        @*<th>
+                                @Html.DisplayNameFor(model => model.ufLaboratorio)
+                            </th>*@
+                        @*<th>
+                                @Html.DisplayNameFor(model => model.observacao)
+                            </th>*@
+                        <th>
+                            @Html.DisplayNameFor(model => model.ean)
+                        </th>
+                        @*<th>
+                                @Html.DisplayNameFor(model => model.nivel)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.aproximadoAumento)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.valorClienteGo)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.valorDemaisClientes)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.valorClientesAmEAc)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.clientesES)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.indicacao)
+                            </th>
+                            <th></th>*@
+                        <th>
+
+                        </th>
+                    </tr>
+                </thead>
+
+                <tbody>
+
+                    @foreach (var item in Model)
+                    {
+
+                        <tr>
+                            <td id="codigo">
+                                @Html.DisplayFor(modelItem => item.codigo)
+                            </td>
+                            @*<td>
+                                        @Html.DisplayFor(modelItem => item.dataAlteracao)
+                                    </td>
+                                    <td>
+                                    @Html.DisplayFor(modelItem => item.margemMinima)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.margemVenda)
+                                </td>*@
+                            <td>
+                                @Html.DisplayFor(modelItem => item.descricao)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.nomeQuimico)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.laboratorio)
+                            </td>
+                            @*<td>
+                                @Html.DisplayFor(modelItem => item.ncm)
+                                </td>*@
+                            @*<td>
+                                    @Html.DisplayFor(modelItem => item.lista)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.exclusivoHospitalar)
+                                </td>*@
+                            @*<td>
+                                    @Html.DisplayFor(modelItem => item.tipo)
+                                </td>*@
+                            @*<td>
+                                    @Html.DisplayFor(modelItem => item.resolucao13)
+                                </td>*@
+                            @*<td>
+                                    @Html.DisplayFor(modelItem => item.origem)
+                                </td>*@
+                            @*<td>
+                                    @Html.DisplayFor(modelItem => item.ufLaboratorio)
+                                </td>*@
+                            @*<td>
+                                    @Html.DisplayFor(modelItem => item.observacao)
+                                </td>*@
+                            <td>
+                                @Html.DisplayFor(modelItem => item.ean)
+                            </td>
+                            @*<td>
+                                    @Html.DisplayFor(modelItem => item.nivel)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.aproximadoAumento)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.valorClienteGo)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.valorDemaisClientes)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.valorClientesAmEAc)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.clientesES)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.indicacao)
+                                </td>*@
+                            <td>
+                                @Html.ActionLink(" ", "Visualizar", "TabelaPrecoOncoprod", new { id = item.Id }, new { @class = "btn btn-default class glyphicon glyphicon-eye-open" })
+                            </td>
+
+                        </tr>
+                    }
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+}
+
+<script>
+        $(document).ready(function () {
+            $('.tabela').dataTable({
+                "language": { "paginate": { "next": "Próximo", "sPrevious": "Anterior", "search": "Pesquisar" }}
+            });
+
+        });
+</script>
+
+
+

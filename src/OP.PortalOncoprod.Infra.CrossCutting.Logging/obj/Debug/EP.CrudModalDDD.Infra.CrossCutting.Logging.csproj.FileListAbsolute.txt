@@ -1,0 +1,16 @@
+D:\Curso AspNet MVC 5\2- Material de Apoio\5- CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.dll.config
+D:\Curso AspNet MVC 5\2- Material de Apoio\5- CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.dll
+D:\Curso AspNet MVC 5\2- Material de Apoio\5- CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.pdb
+D:\Curso AspNet MVC 5\2- Material de Apoio\5- CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\EntityFramework.dll
+D:\Curso AspNet MVC 5\2- Material de Apoio\5- CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\EntityFramework.SqlServer.dll
+D:\Curso AspNet MVC 5\2- Material de Apoio\5- CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Curso AspNet MVC 5\2- Material de Apoio\5- CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\System.Web.Mvc.dll
+D:\Curso AspNet MVC 5\2- Material de Apoio\5- CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\EntityFramework.xml
+D:\Curso AspNet MVC 5\2- Material de Apoio\5- CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\EntityFramework.SqlServer.xml
+D:\Curso AspNet MVC 5\2- Material de Apoio\5- CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Curso AspNet MVC 5\2- Material de Apoio\5- CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\System.Web.Mvc.xml
+D:\Curso AspNet MVC 5\2- Material de Apoio\5- CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\obj\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.csprojResolveAssemblyReference.cache
+D:\Curso AspNet MVC 5\2- Material de Apoio\5- CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\obj\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.dll
+D:\Curso AspNet MVC 5\2- Material de Apoio\5- CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\obj\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.pdb
+D:\Curso AspNet MVC 5\2- Material de Apoio\5- CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Curso AspNet MVC 5\2- Material de Apoio\5- CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\Microsoft.Web.Infrastructure.xml

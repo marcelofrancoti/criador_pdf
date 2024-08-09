@@ -1,0 +1,12 @@
+D:\Curso AspNet MVC 5\2- Material de Apoio\5- CrudDDDModal\tests\EP.CrudModalDDD.Domain.Tests\bin\Debug\EP.CrudModalDDD.Domain.Tests.dll
+D:\Curso AspNet MVC 5\2- Material de Apoio\5- CrudDDDModal\tests\EP.CrudModalDDD.Domain.Tests\bin\Debug\EP.CrudModalDDD.Domain.Tests.pdb
+D:\Curso AspNet MVC 5\2- Material de Apoio\5- CrudDDDModal\tests\EP.CrudModalDDD.Domain.Tests\bin\Debug\DomainValidation.dll
+D:\Curso AspNet MVC 5\2- Material de Apoio\5- CrudDDDModal\tests\EP.CrudModalDDD.Domain.Tests\bin\Debug\EP.CrudModalDDD.Domain.dll
+D:\Curso AspNet MVC 5\2- Material de Apoio\5- CrudDDDModal\tests\EP.CrudModalDDD.Domain.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Curso AspNet MVC 5\2- Material de Apoio\5- CrudDDDModal\tests\EP.CrudModalDDD.Domain.Tests\bin\Debug\Rhino.Mocks.dll
+D:\Curso AspNet MVC 5\2- Material de Apoio\5- CrudDDDModal\tests\EP.CrudModalDDD.Domain.Tests\bin\Debug\EP.CrudModalDDD.Domain.pdb
+D:\Curso AspNet MVC 5\2- Material de Apoio\5- CrudDDDModal\tests\EP.CrudModalDDD.Domain.Tests\bin\Debug\Rhino.Mocks.xml
+D:\Curso AspNet MVC 5\2- Material de Apoio\5- CrudDDDModal\tests\EP.CrudModalDDD.Domain.Tests\obj\Debug\EP.CrudModalDDD.Domain.Tests.csprojResolveAssemblyReference.cache
+D:\Curso AspNet MVC 5\2- Material de Apoio\5- CrudDDDModal\tests\EP.CrudModalDDD.Domain.Tests\obj\Debug\EP.CrudModalDDD.Domain.Tests.csproj.CoreCompileInputs.cache
+D:\Curso AspNet MVC 5\2- Material de Apoio\5- CrudDDDModal\tests\EP.CrudModalDDD.Domain.Tests\obj\Debug\EP.CrudModalDDD.Domain.Tests.dll
+D:\Curso AspNet MVC 5\2- Material de Apoio\5- CrudDDDModal\tests\EP.CrudModalDDD.Domain.Tests\obj\Debug\EP.CrudModalDDD.Domain.Tests.pdb

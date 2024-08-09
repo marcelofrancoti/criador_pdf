@@ -1,0 +1,39 @@
+﻿
+<div class="col-md-6">
+    <table class="tabela table table-striped table-bordered table-condensed table-hover" cellspacing="0" id="usuariosNaoSelecionados">
+        <tr>
+            <th>Selecione</th>
+            <th>Codigo</th>
+            <th>Nome</th>
+
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr id="check_@item.usuarioId" onclick="  ItemSelecionado(this.id)">
+                <td>
+                    @Html.CheckBox("checkBoxName", false, new { @class = "checkListItens", data_mini = "false" })
+                </td>
+                <td>@item.usuarioId.Replace(".", "").Trim()</td>
+                <td>@item.usuarioNome</td>
+
+            </tr>
+        }
+    </table>
+</div>
+
+<script>
+    $(document).ready(function () {
+        $('.usuariosNaoSelecionados').dataTable({
+            "language": { "paginate": { "next": "Próximo", "sPrevious": "Anterior", "search": "Pesquisar" } }
+        });
+    });
+
+    function ItemSelecionado(id) {
+
+        $('#' + id).remove();
+        myArray.push(id);
+
+        return false;
+    }
+</script>

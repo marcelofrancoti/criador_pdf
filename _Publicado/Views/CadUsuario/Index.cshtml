@@ -1,0 +1,72 @@
+﻿@model OP.PortalOncoprod.Application.ViewModels.UsuarioTabelaPrecoViewModel
+
+
+<style type="text/css">
+
+    .AjusteLayout {
+        padding: 50px 0 0 0;
+    }
+
+
+    .invisible {
+        display: none;
+    }
+
+    .LeftPage {
+        border-radius: 5px 5px 5px 5px;
+        align-content: center;
+        background-color: #b7b0f7;
+        padding: 0 0 0 200px;
+        float: left;
+    }
+
+    .RightPage {
+        padding: 0 200px 0 0;
+    }
+
+    .feetPage {
+        padding: 100px 0 0 0;
+    }
+
+    div.containerTable {
+        height: 100%;
+        max-width: 600px
+    }
+
+
+    div.op1 {
+        width: 38%;
+        display: inline-block;
+        text-align: center;
+        padding: 0vw 0vw 0 0vw;
+        min-width: 19px;
+    }
+</style>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <h3 style="padding:50px 0 50px 0" >    Cadastro Usuario </h3>
+
+    <div class="containerTable">
+        @foreach (var item in Model.listaGrupo)
+        {
+
+
+            <table>
+                <tr>
+                    <td onclick="return Selecionado('@item.nomeGrupo')">
+                        @Html.CheckBox("checkBoxName", false, new { id = "check_" + item.grupoId, @class = "checkListItens", value = @item.nomeGrupo, data_mini = "false" })
+                        <label id="label_@item.grupoId">@item.nomeGrupo</label>
+
+                    </td>
+                </tr>
+            </table>
+
+        }
+    </div>
+
+    
+}
+

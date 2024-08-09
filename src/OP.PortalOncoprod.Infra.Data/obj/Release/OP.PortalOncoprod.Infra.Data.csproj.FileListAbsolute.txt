@@ -1,0 +1,48 @@
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Release\Dapper.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Release\DomainValidation.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Release\EntityFramework.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Release\EntityFramework.SqlServer.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Release\Dapper.pdb
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Release\Dapper.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Release\EntityFramework.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Release\EntityFramework.SqlServer.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\obj\Release\OP.PortalOncoprod.Infra.Data.csprojResolveAssemblyReference.cache
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Release\OP.PortalOncoprod.Infra.Data.dll.config
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Release\OP.PortalOncoprod.Infra.Data.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Release\OP.PortalOncoprod.Infra.Data.pdb
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Release\OP.PortalOncoprod.Domain.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Release\System.Web.Mvc.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Release\System.Web.Razor.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Release\System.Web.WebPages.Razor.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Release\System.Web.WebPages.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Release\System.Web.WebPages.Deployment.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Release\OP.PortalOncoprod.Domain.pdb
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Release\System.Web.Mvc.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Release\System.Web.Razor.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Release\System.Web.WebPages.Razor.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Release\System.Web.WebPages.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Release\Microsoft.Web.Infrastructure.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\bin\Release\System.Web.WebPages.Deployment.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\obj\Release\OP.PortalOncoprod.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\obj\Release\OP.PortalOncoprod.Infra.Data.csproj.CopyComplete
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\obj\Release\OP.PortalOncoprod.Infra.Data.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.Data\obj\Release\OP.PortalOncoprod.Infra.Data.pdb
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Release\OP.PortalOncoprod.Infra.Data.dll.config
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Release\OP.PortalOncoprod.Infra.Data.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Release\OP.PortalOncoprod.Infra.Data.pdb
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Release\Dapper.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Release\DomainValidation.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Release\EntityFramework.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Release\OP.PortalOncoprod.Domain.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Release\OP.PortalOncoprod.Domain.pdb
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Release\Dapper.pdb
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Release\Dapper.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Release\EntityFramework.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\obj\Release\OP.PortalOncoprod.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\obj\Release\OP.PortalOncoprod.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\obj\Release\OP.PortalOncoprod.Infra.Data.csproj.CopyComplete
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\obj\Release\OP.PortalOncoprod.Infra.Data.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.Data\obj\Release\OP.PortalOncoprod.Infra.Data.pdb

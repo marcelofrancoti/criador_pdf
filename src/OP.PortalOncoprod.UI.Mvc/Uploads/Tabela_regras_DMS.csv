@@ -1,0 +1,180 @@
+Infotipo;Subinfotipo;FormularioKitAdmissao;OutrosDocumentosControlados;Obrigatorio;Regra;DescricaoOutrosDocs;NomeFunçcao;TipoMedida;NomeUsuario;Data;CampoDaCtg;GrupoAutorizacoes;CodGrupo
+;;;RS190;---;-RS190---;Cartão Nacional de Saúde – Titular e dependen;;;;;00:00:00;RECS;5
+465;10;;-;S;-0465-0010--;Carteira de Habilitação CNH;;;;;00:00:00;RECS;5
+465;8;;;S;-0465-0008--;Carteira de identidade ou visto de Estrangeiro;;;;;00:00:00;RECS;5
+;; ;RS090;---;-RS090---;Carteira de vacinação – Titular e dependen;;;;;00:00:00;RECS;5
+465;2;;;S;-0465-0002--;Carteira Identidade RG;;;;;00:00:00;RECS;5
+;;;RS180;---;-RS180---;Certidão de Casamento/União Estável /Averbaçã;;;;;00:00:00;RECS;5
+;;;RS185;---;-RS185---;Certidão de Nascimento - RG - CPF dos filhos ;;;;;00:00:00;RECS;5
+465;7;;;S;-0465-0007--;Certificado de Reservista;;;;;00:00:00;RECS;5
+;;;RS115;---;-RS115---;Certificados Cursos Técnicos;;;;;00:00:00;RECS;5
+9;;;;S;-0009---;Comprovante de dados bancários;;;;;00:00:00;RECS;5
+6;1;;;S;-0006-1--;Comprovante de residência;;;;;00:00:00;RECS;5
+;;;RS060;---;-RS060---;Consulta de seguro desemprego;;;;;00:00:00;RECS;5
+;;;RS050;---;-RS050---;Consulta Pessoal;;;;;00:00:00;RECS;5
+465;1;;;S;-0465-0001--;CPF;;;;;00:00:00;RECS;5
+465;3;;;S;-0465-0003--;CTPS;;;;;00:00:00;RECS;5
+;;;RS040;---;-RS040---;Currículo;;;;;00:00:00;RECS;5
+22;1;;;S;-0022-01--;Ensino Fundamental ou Médio / Secundário;;;;;00:00:00;RECS;5
+22;3;;;S;-0022-03--;Ensino Técnico;;;;;00:00:00;RECS;5
+22;8;;;S;-0022-08--;Extensão;;;;;00:00:00;RECS;5
+;;;RS030;---;-RS030---;Ficha proposta;;;;;00:00:00;RECS;5
+;;;RS020;---;-RS020---;Folha de Rosto;;;;;00:00:00;RECS;5
+;;;RS010;---;-RS010---;Foto;;;;;00:00:00;RECS;5
+22;5;;;S;-0022-05--;Grad. Plena / Grad. Tecnológica;;;;;00:00:00;RECS;5
+;;;RS080;---;-RS080---;Outros Doc's (Recrutamento e Seleção);;;;;00:00:00;RECS;5
+;;;RS130;---;-RS130---;Pedido de readmissão;;;;;00:00:00;RECS;5
+465;6;;;S;-0465-0006--;PIS/PASEP/NIS;;;;;00:00:00;RECS;5
+22;7;;;S;-0022-07--;Pós Graduação L.Sens -  S.Sens;;;;;00:00:00;RECS;5
+;;;RS135;---;-RS135---;Proposta sindical;;;;;00:00:00;RECS;5
+;;;RS200;---;-RS200---;RG e CPF do cônjuge;;;;;00:00:00;RECS;5
+465;5;;;S;-0465-0005--;Titulo Eleitoral;;;;;00:00:00;RECS;5
+;;;RS070;---;-RS070---;TRCT da última empresa;;;;;00:00:00;RECS;5
+;;F0030;;S;-F0030---;Acordo Compensação De Horas De Trabalho;;;;;00:00:00;ADMI;10
+;;F0006;;S;-F0006---;Acordo Desconto Salário Caso De Danos;;;;;00:00:00;ADMI;10
+;;F0031;;S;-F0031---;Acordo Prorrogação De Horas De Trabalho;;;;;00:00:00;ADMI;10
+;;F0004;;S;-F0004---;Autorização Desc. Ben. Folha Pagamento;;;;;00:00:00;ADMI;10
+;;F0063;;S;-F0063---;Cont. De Trabalho Para Aprendiz;;;;;00:00:00;ADMI;10
+;;F0064;;S;-F0064---;Cont. Ind. De Trabalho E Experiência;;;;;00:00:00;ADMI;10
+;;F0010;;S;-F0010---;Decl. Encargos de Família Fins I.R;;;;;00:00:00;ADMI;10
+410;;F0008;;S;-BN235---;Declaração de Vale Transporte;;;;;00:00:00;ADMI;10
+;;;AD080;---;-AD080---;E-mail Contratação;;;;;00:00:00;ADMI;10
+;;;AD050;---;-AD050---;E-social;;;;;00:00:00;ADMI;10
+;;F0012;;S;-F0012---;Ficha Cadastral;;;;;00:00:00;ADMI;10
+167;;F0009;;S;-BN145---;Ficha de Adesão Ao Convênio Médico;;;;;00:00:00;ADMI;10
+167;;F0007;;S;-F0007-0167--;Ficha de Adesão Ao Convênio Odontológico;;;;;00:00:00;ADMI;10
+377;;F0017;;S;-F0017-0377--;Ficha de Adesão Ao Vale Alimentação - Vale Refeição;;;;;00:00:00;ADMI;10
+;;;AD040;---;-AD040---;Ficha de registro de empregado;;;;;00:00:00;ADMI;10
+;;F0065;;S;-F0065---;Movida/Apta  Aut. Pagto. Salário Em Conta;;;;;00:00:00;ADMI;10
+;;F0072;;S;-F0072---;Movida/Apta  Termo Resp. Util. Veículo;;;;;00:00:00;ADMI;10
+;;;AD020;---;-AD020---;Outros Doc's (Admissão);;;;;00:00:00;ADMI;10
+736;;;;S;-0736---;Pensão alimentícia BR;;;;;00:00:00;ADMI;10
+;;F0011;;S;-F0011---;Recebimento de Cracha Funcional;;;;;00:00:00;ADMI;10
+;;F0019;;S;-F0019---;Recebimento De Documentos;;;;;00:00:00;ADMI;10
+;;F0034;;S;-F0034---;Regulamento Interno  Recibo;;;;;00:00:00;ADMI;10
+;;F0035;;S;-F0035---;Regulamento Interno 1;;;;;00:00:00;ADMI;10
+;;F0062;;S;-F0062---;Regulamento Interno 2;;;;;00:00:00;ADMI;10
+168;;F0013;;S;-F0013-0168--;Seguro de Vida  Obrigatório\Opcional;;;;;00:00:00;ADMI;10
+105;;F0087;;S;-F0087-0105--;Senha para Acesso Ao Portal Do Colaborador;;;;;00:00:00;ADMI;10
+;;;AD010;---;-AD010---;Telegramas enviados;;;;;00:00:00;ADMI;10
+;;F0039;;S;-F0039---;Ter. Adit. Cont. Ind. Trabalho Experiência;;;;;00:00:00;ADMI;10
+;;;AD070;---;-AD070---;Termo de ciência e compromisso;;;;;00:00:00;ADMI;10
+;;;AD060;---;-AD060---;Termo de ciência e resp. veículo da movida;;;;;00:00:00;ADMI;10
+;;F0005;;S;-F0005---;Termo de Responsabilidade;;;;;00:00:00;ADMI;10
+;;F0020;;S;-F0020---;Termo De Responsabilidade (SAL. FAM.);;;;;00:00:00;ADMI;10
+;;;AM130;---;-AM130---;Acompanhamento dos Afastados.;;;;;00:00:00;AMBL;15
+;;;AM110;---;-AM110---;Afastados INSS – Acidente De Trabalho.;;;;;00:00:00;AMBL;15
+;;;AM120;---;-AM120---;Afastados INSS – Auxílio Doença.;;;;;00:00:00;AMBL;15
+;;;AM020;---;-AM020---;ASO – Admissional;;;;;00:00:00;AMBL;15
+;;;AM040;---;-AM040---;ASO – Mudança De Função;;;;;00:00:00;AMBL;15
+;;;AM030;---;-AM030---;ASO – Periódico;;;;;00:00:00;AMBL;15
+;;;AM050;---;-AM050---;ASO – Retorno ao Trabalho;;;;;00:00:00;AMBL;15
+4;;;;S;-0004---;Deficiência;;;;;00:00:00;AMBL;15
+;;;AM200;---;-AM200---;Doença ocupacional;;;;;00:00:00;AMBL;15
+;;;AM210;---;-AM210---;Outros Doc's (Ambulatório);;;;;00:00:00;AMBL;15
+;;;AM010;---;-AM010---;PCMSO;;;;;00:00:00;AMBL;15
+9017;;;;S;-9017---;Aviso de férias - programação;ZBRHRPAMF0005;;;;00:00:00;FPAG;20
+;;;FP145;---;-FP145---;Carta de dias de descanso;;;;;00:00:00;FPAG;20
+0;;;FP040;---;-FP040-0000--;Chave de Conectividade;;;;;00:00:00;FPAG;20
+;;;FP100;---;-FP100---;Comprov de créditos ou descontos Autorizados;;;;;00:00:00;FPAG;20
+0;;;FP050;---;-FP050-0000--;Comprovante de pagamento da GRRF;;;;;00:00:00;FPAG;20
+;;;FP010;---;-FP010---;Comprovante de Pagamento da TRCT Complementar;;;;;00:00:00;FPAG;20
+1;;;FP020;---;-FP020-0001--;Comprovante De Pagamento Do TRCT;;;;;00:00:00;FPAG;20
+0;;;FP060;---;-FP060-0000--;Demonstrativo do cálculo;;;;;00:00:00;FPAG;20
+0;;;FP070;---;-FP070-0000--;Demonstrativo do trabalhador;;;;;00:00:00;FPAG;20
+598;;;;S;-0598---;Estabilidades;;;;;00:00:00;FPAG;20
+0;;;FP080;---;-FP080-0000--;Extrato do FGTS;;;;;00:00:00;FPAG;20
+;;;FP030;---;-FP030---;GRRF;;;;;00:00:00;FPAG;20
+;;;FP130;---;-FP130---;Outros Doc's (Folha de Pagamento);;;;;00:00:00;FPAG;20
+9017;;;FP150;---;-FP150-9017--;Recibo de férias - efetivação e cálculo;ZBRHRPAMF0005;;;;00:00:00;FPAG;20
+;;;FP135;---;-FP135---;Relatório de médias das férias;;;;;00:00:00;FPAG;20
+;;;FP140;---;-FP140---;Solicitação antecipação 13º salário férias;;;;;00:00:00;FPAG;20
+0;;;FP090;---;-FP090-0000--;TRCT Complementar;;;;;00:00:00;FPAG;20
+;;;EP010;---;-EP010--201811-;"""Espelho de ponto"" mensal por colaborador";ZBRHRPAMF0004;;;;00:00:00;FREQ;25
+2001;245;;;S;-2001-0245--;Acidente de trabalho ;;;;;00:00:00;FREQ;25
+;;;FQ060;---;-FQ060---;Acordo de compensação de horas extras;;;;;00:00:00;FREQ;25
+2001;291;;;S;-2001-0291--;Adoção criança;;;;;00:00:00;FREQ;25
+2001;520;;;S;-2001-0520--;Amamentação;;;;;00:00:00;FREQ;25
+2001;400;;;S;-2001-0400--;Aposentadoria por invalidez;;;;;00:00:00;FREQ;25
+2001;240;;;S;-2001-0240--;Atestado de Acompanhante;;;;;00:00:00;FREQ;25
+2001;200;;;S;-2001-0200--;Atestado médico;;;;;00:00:00;FREQ;25
+2001;265;;;S;-2001-0520--;Auxílio Doença ;;;;;00:00:00;FREQ;25
+2001;550;;;S;-2001-0550--;banco horas;;;;;00:00:00;FREQ;25
+;;;FQ050;---;-FQ050---;Comunicado de Decisão do INSS;;;;;00:00:00;FREQ;25
+2001;720;;;S;-2001-0720--;Declaração de horas;;;;;00:00:00;FREQ;25
+2001;290;;;S;-2001-0290--;Lic. maternidade ;;;;;00:00:00;FREQ;25
+2001;300;;;S;-2001-0300--;Licença casamento;;;;;00:00:00;FREQ;25
+2001;320;;;S;-2001-0320--;Licença falecimento;;;;;00:00:00;FREQ;25
+2001;205;;;S;-2001-0205--;Licença médica;;;;;00:00:00;FREQ;25
+2001;310;;;S;-2001-0310--;Licença paternidade;;;;;00:00:00;FREQ;25
+;;;FQ070;---;-FQ070---;Ocorrência ponto eletrônico;;;;;00:00:00;FREQ;25
+;;;FQ010;---;-FQ010---;Outros Doc's (Frequência);;;;;00:00:00;FREQ;25
+;;;FQ030;---;-FQ030---;Requerimento de Benefício por Incapacidade;;;;;00:00:00;FREQ;25
+;;;CS070;---;-CS070---;Aumento de Efetivo;;;;;00:00:00;CSAL;30
+;;;CS020;---;-CS020---;Movimentação de Pessoal/Transferência;;;;;00:00:00;CSAL;30
+;;;CS080;---;-CS080---;Outros Doc's (Cargos e Salários);;;;;00:00:00;CSAL;30
+;;;CS030;---;-CS030---;Parecer de Promoção;;;;;00:00:00;CSAL;30
+;;;CS040;---;-CS040---;Premio Extraordinário;;;;;00:00:00;CSAL;30
+598;BR04;;;S;-0598-BR04--;Procuração;;;;;00:00:00;CSAL;30
+;;;CS050;---;-CS050---;Termo de autorização de veículo;;;;;00:00:00;CSAL;30
+;;;ST040;---;-ST040---;CAT;;;;;00:00:00;SEGT;35
+;;;ST180;---;-ST180---;Certificados;;;;;00:00:00;SEGT;35
+;;;ST070;---;-ST070---;CIPA;;;;;00:00:00;SEGT;35
+;;;ST010;---;-ST010---;Ficha de entrega de EPI ;;;;;00:00:00;SEGT;35
+;;;ST080;---;-ST080---;Outros Doc's (Seg. Trabalho);;;;;00:00:00;SEGT;35
+;;;ST050;---;-ST050--;PPP;;;;;00:00:00;SEGT;35
+;;;ST060;---;-ST060---;Treinamentos -S.T - M.A.;;;;;00:00:00;SEGT;35
+45;;;;S;-0045---;Comprovante de empréstimo consignado;ZBRHRPAMF0006;;;;00:00:00;BENF;40
+;;;BN060;---;-BN060---;Comprovante de Recebimento do Convênio Médico;;;;;00:00:00;BENF;40
+;;;BN255;---;-BN255---;Declaração de Faculdade;;;;;00:00:00;BENF;40
+;;;BN235;---;-F0008-0410--;Declaração de Vale Transporte;;;;;00:00:00;BENF;40
+;;;BN250;---;-BN250---;Exclusão de dependentes;;;;;00:00:00;BENF;40
+;;;BN210;---;-BN210---;Ficha de Adesão A Cesta Básica/Refeitório/Vale Alimentação/Vale Refeição;;;;;00:00:00;BENF;40
+;;;BN145;---;-F0009-0167--;Ficha de Adesão Ao Convênio Médico;;;;;00:00:00;BENF;40
+;;;BN115;---;-BN115---;Ficha de Adesão Ao Convênio Odontológico;;;;;00:00:00;BENF;40
+;;;BN010;---;-BN010---;Outros Doc's (Benefício);;;;;00:00:00;BENF;40
+;;;BN105;---;-BN105---;Protocolo de entrega do cartão do convênio ;;;;;00:00:00;BENF;40
+;;;BN020;---;-BN020---;Recebimento Cartão Alimentação VR;;;;;00:00:00;BENF;40
+;;;BN200;---;-BN200---;Seguro de Vida  Opcional/Obrigatório;;;;;00:00:00;BENF;40
+;;;BN150;---;-BN120---;Termo de cancelamento;;;;;00:00:00;BENF;40
+;;;BN245;---;-BN245---;Termo de carência;;;;;00:00:00;BENF;40
+;;;BN140;---;-BN140---;Termo de inclusão;;;;;00:00:00;BENF;40
+;;;JR010;---;-JR010---;Outros Doc's (Jurídico);;;;;00:00:00;JURI;45
+661;100;;;S;-0661-0100--;Acordo;;;;;00:00:00;DEMI;50
+661;200;;;S;-0661-0200--;Aposentadoria;;;;;00:00:00;DEMI;50
+0;;;DM090;---;-DM090-0000--;Aso demissional;;;;;00:00:00;DEMI;50
+661;300;;;S;-0661-0300--;Carta de Desligamento;;;;;00:00:00;DEMI;50
+0;;;DM060;---;-DM060-0000--;Comprovante de entrega da Ficha de anotação d;;;;;00:00:00;DEMI;50
+0;;;DM070;---;-DM070-0000--;Comprovante de entrega do Seguro Desemprego;;;;;00:00:00;DEMI;50
+;;;DM030;---;-DM030---;E-mail da filial;;;;;00:00:00;DEMI;50
+;;;DM120;---;-DM120---;Entrevista de Desligamento;;;;;00:00:00;DEMI;50
+;;;DM135;---;-DM135---;Extrato analítico do FGTS;;;;;00:00:00;DEMI;50
+661;500;;;S;-0661-0500--;Falecimento;;;;;00:00:00;DEMI;50
+;;;DM105;---;-DM105---;Opção de Plano de Continuidade ou exclusão convenio;;;;;00:00:00;DEMI;50
+;;;DM110;---;DM110---;Outros Doc's (Demissional);;;;;00:00:00;DEMI;50
+661;650;;;S;-0661-0650--;Pedido de Desligamento;;;;;00:00:00;DEMI;50
+0;;;DM020;---;-DM020-0000--;Percurso de saída;;;;;00:00:00;DEMI;50
+0;;;DM080;---;-DM080-0000--;PPP;;;;;00:00:00;DEMI;50
+;;;DM140;---;-DM140---;RDP - requisição de desligamento de pessoal;;;;;00:00:00;DEMI;50
+;;;DM145;---;-DM145---;Relatório de médias da rescisão;;;;;00:00:00;DEMI;50
+;;;DM160;---;-DM160---;Telegrama;;;;;00:00:00;DEMI;50
+0;;;DM100;---;-DM100-0000--;TRCT assinado e homologado;;;;;00:00:00;DEMI;50
+;;;AT200;---;-AT200---;Outros Doc's (Auditoria Trabalhista);;;;;00:00:00;AUDT;55
+;;;CO080;---;-CO080---;Bloqueio Compliance;;;;;00:00:00;CONF;60
+;;;CO050;---;-CO050---;Outros Doc's (Conformidade);;;;;00:00:00;CONF;60
+;;;CO060;---;-CO060---;Política de particip em Licitações Públicas;;;;;00:00:00;CONF;60
+;;;CO030;---;CO030---;Termo de advertência;;;;;00:00:00;CONF;60
+;;;CO070;---;-CO070---;Termo de direitos de uso de imagem e voz;;;;;00:00:00;CONF;60
+;;;CO040;---;-CO040---;Termo de entrega do código de conduta;;;;;00:00:00;CONF;60
+;;;CO010;---;-CO010---;Termo de orientação;;;;;00:00:00;CONF;60
+;;;CO020;---;-CO020---;Termo de suspensão disciplinar;;;;;00:00:00;CONF;60
+;;;TR070;---;CO100---;T. de compr e Quest de Conflito de Int C/ conflito;;;;;;CONF;60
+;;;TR030;---;CO110---;T. de compr e Quest de Conflito de Int S/ conflito;;;;;;CONF;60
+;;;020DS                                    ;---;-TR070---;Outros Doc's (Treinamento);;;;;00:00:00;TREI;65
+;;;;;-TR030---;Pauta de Presença - Treinamento;;;;;00:00:00;TREI;65
+;;;;;  -DS010---                                                                          ;Dossiê;;;;;;DOSS;70
+;;;;;FI010---;Termo de Fundo Fixo;;;;;00:00:00;FINA;75
+777;777;;;;k009--;regra marcelo;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;; ;;;;;;;;

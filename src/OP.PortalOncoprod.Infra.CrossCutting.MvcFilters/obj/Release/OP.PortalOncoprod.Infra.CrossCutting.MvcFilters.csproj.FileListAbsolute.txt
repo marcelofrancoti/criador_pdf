@@ -1,0 +1,52 @@
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\System.Web.Mvc.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\EntityFramework.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\Microsoft.AspNet.Identity.Core.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\System.Web.Razor.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\System.Web.WebPages.Razor.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\System.Web.WebPages.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\System.Web.WebPages.Deployment.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\System.Web.Mvc.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\EntityFramework.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\Microsoft.AspNet.Identity.Core.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\System.Web.Razor.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\System.Web.WebPages.Razor.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\System.Web.WebPages.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\Microsoft.Web.Infrastructure.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\System.Web.WebPages.Deployment.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\obj\Release\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.csprojResolveAssemblyReference.cache
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.pdb
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\OP.PortalOncoprod.Infra.CrossCutting.Logging.pdb
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll.config
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\obj\Release\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.csproj.CoreCompileInputs.cache
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\obj\Release\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.csproj.CopyComplete
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\obj\Release\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\obj\Release\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.pdb
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.pdb
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\System.Web.Mvc.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\EntityFramework.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\Microsoft.AspNet.Identity.Core.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\System.Web.Razor.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\System.Web.WebPages.Razor.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\System.Web.WebPages.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\OP.PortalOncoprod.Infra.CrossCutting.Logging.pdb
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll.config
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\System.Web.Mvc.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\EntityFramework.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\Microsoft.AspNet.Identity.Core.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\System.Web.Razor.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\System.Web.WebPages.Razor.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\System.Web.WebPages.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\Microsoft.Web.Infrastructure.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\obj\Release\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.csproj.AssemblyReference.cache
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\obj\Release\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.csproj.CoreCompileInputs.cache
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\obj\Release\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.csproj.CopyComplete
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\obj\Release\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\obj\Release\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.pdb

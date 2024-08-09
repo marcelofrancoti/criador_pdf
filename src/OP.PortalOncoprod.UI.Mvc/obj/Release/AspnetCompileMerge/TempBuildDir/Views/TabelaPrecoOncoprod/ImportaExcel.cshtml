@@ -1,0 +1,50 @@
+﻿@using Resources
+
+@{
+    /**/
+
+
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Importar Excel";
+}
+<br />
+
+
+@using (Html.BeginForm(Html.BeginForm("ImportaExcel", "TabelaPrecoOncoprod", FormMethod.Post, new { enctype = "multipart/form-data" })))
+{
+
+    @Html.AntiForgeryToken()
+
+    <div class="container-fluid" style="max-width: 100%;">
+        <div style="font-family: sans-serif; color: darkgray;">
+            <ol class="breadcrumb" style="text-transform: uppercase;">
+                <li>@Resources.lblTabelaPreco<span class="glyphicon glyphicon-menu-right"></span></li>
+                <li class="active">Importar Excel</li>
+            </ol>
+        </div>
+        <br />
+
+
+        <input class="btn btn-info btn-lg" type="file" name="postedFile" />
+        <br />
+        <input class="btn btn-success" id="sucesso" type="submit" value="Importar Excel" />
+        <div class="pull-left">
+            <a class="btn btn-primary" href="@Url.Action("Index", "TabelaPrecoOncoprod")">
+                <span title="Detalhes" class="glyphicon glyphicon-menu-left"></span>
+                @Resources.lblVoltar
+            </a>
+        </div>
+
+        @*<div class="form-group">
+                <div class="col-md-offset-2 col-md-10 text-success">
+                    @ViewBag.Message
+                </div>
+            </div>*@
+    </div>
+}
+
+
+
+<script>
+
+</script>

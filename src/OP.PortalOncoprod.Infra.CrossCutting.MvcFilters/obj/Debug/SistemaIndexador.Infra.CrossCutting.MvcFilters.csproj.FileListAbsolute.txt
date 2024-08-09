@@ -1,0 +1,78 @@
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.pdb
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\System.Web.Mvc.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\EntityFramework.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\System.Web.Razor.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\System.Web.WebPages.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\OP.PortalOncoprod.Infra.CrossCutting.Logging.pdb
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll.config
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\System.Web.Mvc.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\EntityFramework.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\System.Web.Razor.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\System.Web.WebPages.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\obj\Debug\SistemaIndexador.Infra.CrossCutting.MvcFilters.csproj.AssemblyReference.cache
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\obj\Debug\SistemaIndexador.Infra.CrossCutting.MvcFilters.csproj.CoreCompileInputs.cache
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\obj\Debug\SistemaIndexador.Infra.CrossCutting.MvcFilters.csproj.CopyComplete
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\obj\Debug\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\obj\Debug\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.pdb
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.pdb
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\System.Web.Mvc.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\EntityFramework.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\System.Web.Razor.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\System.Web.WebPages.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\OP.PortalOncoprod.Infra.CrossCutting.Logging.pdb
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll.config
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\System.Web.Mvc.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\EntityFramework.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\System.Web.Razor.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\System.Web.WebPages.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\obj\Debug\SistemaIndexador.Infra.CrossCutting.MvcFilters.csproj.AssemblyReference.cache
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\obj\Debug\SistemaIndexador.Infra.CrossCutting.MvcFilters.csproj.CoreCompileInputs.cache
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\obj\Debug\SistemaIndexador.Infra.CrossCutting.MvcFilters.csproj.CopyComplete
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\obj\Debug\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\obj\Debug\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.pdb
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.dll
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.pdb
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\System.Web.Mvc.dll
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\EntityFramework.dll
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\System.Web.Razor.dll
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\System.Web.WebPages.dll
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\OP.PortalOncoprod.Infra.CrossCutting.Logging.pdb
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll.config
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\System.Web.Mvc.xml
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\EntityFramework.xml
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\System.Web.Razor.xml
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\System.Web.WebPages.xml
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\obj\Debug\SistemaIndexador.Infra.CrossCutting.MvcFilters.csproj.AssemblyReference.cache
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\obj\Debug\SistemaIndexador.Infra.CrossCutting.MvcFilters.csproj.CoreCompileInputs.cache
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\obj\Debug\SistemaIndexador.Infra.CrossCutting.MvcFilters.csproj.CopyComplete
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\obj\Debug\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.dll
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\obj\Debug\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.pdb

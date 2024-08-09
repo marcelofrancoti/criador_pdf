@@ -1,0 +1,371 @@
+﻿@model OP.PortalOncoprod.Application.ViewModels.TabelaPrecoOncoprodViewModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Visualizar";
+}
+<br />
+@using (Html.BeginForm("Visualizar", "TabelaPrecoOncoprod", FormMethod.Get))
+{
+    <div class="container-fluid" style="max-width: 100%;">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item" style="text-transform: uppercase;"><a href="#">Tabela de Preço</a></li>
+                <li class="breadcrumb-item active" style="text-transform: uppercase;" aria-current="page">Detalhes</li>
+            </ol>
+        </nav>
+        <div class="row">
+            <div class="col-md-8">
+                <div>
+                    <div class="pull-left">
+                        <a class="btn btn-primary" href="@Url.Action("Index", "TabelaPrecoOncoprod")">
+                            <span title="Detalhes" class="glyphicon glyphicon-menu-left"></span>
+                            Voltar
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br />
+        <div>
+            <form>
+                <div class="form-group col-lg-12">
+                    @Html.DisplayNameFor(model => model.descricao)
+                    @Html.TextAreaFor(model => model.descricao, new { @class = "form-control", @rows = "1", @readonly = "true" })
+                </div>
+                <div class="form-group col-lg-3">
+                    @Html.DisplayNameFor(model => model.codigo)
+                    @Html.TextBoxFor(model => model.codigo, new { @class = "form-control", @readonly = "true" })
+                </div>
+                <div class="form-group col-lg-3">
+                    @Html.DisplayNameFor(model => model.dataAlteracao)
+                    @Html.TextBoxFor(model => model.dataAlteracao, new { @class = "form-control", @readonly = "true" })
+                </div>
+                <div class="form-group col-lg-3">
+                    @Html.DisplayNameFor(model => model.margemMinima)
+                    @Html.TextBoxFor(model => model.margemMinima, new { @class = "form-control", @readonly = "true" })
+                </div>
+                <div class="form-group col-lg-3">
+                    @Html.DisplayNameFor(model => model.margemVenda)
+                    @Html.TextBoxFor(model => model.margemVenda, new { @class = "form-control", @readonly = "true" })
+                </div>
+
+                <div class="form-group col-lg-3">
+                    @Html.DisplayNameFor(model => model.apresentacaoQualidade)
+                    @Html.TextBoxFor(model => model.apresentacaoQualidade, new { @class = "form-control", @readonly = "true" })
+                </div>
+                <div class="form-group col-lg-3">
+                    @Html.DisplayNameFor(model => model.nomeQuimico)
+                    @Html.TextBoxFor(model => model.nomeQuimico, new { @class = "form-control", @readonly = "true" })
+                </div>
+                <div class="form-group col-lg-3">
+                    @Html.DisplayNameFor(model => model.laboratorio)
+                    @Html.TextBoxFor(model => model.laboratorio, new { @class = "form-control", @readonly = "true" })
+                </div>
+                <div class="form-group col-lg-3">
+                    @Html.DisplayNameFor(model => model.ean)
+                    @Html.TextBoxFor(model => model.ean, new { @class = "form-control", @readonly = "true" })
+                </div>
+                <div class="form-group col-lg-3">
+                    @Html.DisplayNameFor(model => model.registro)
+                    @Html.TextBoxFor(model => model.registro, new { @class = "form-control", @readonly = "true" })
+                </div>
+                <div class="form-group col-lg-3">
+                    @Html.DisplayNameFor(model => model.ncm)
+                    @Html.TextBoxFor(model => model.ncm, new { @class = "form-control", @readonly = "true" })
+                </div>
+                <div class="form-group col-lg-3">
+                    @Html.DisplayNameFor(model => model.lista)
+                    @Html.TextBoxFor(model => model.lista, new { @class = "form-control", @readonly = "true" })
+                </div>
+                <div class="form-group col-lg-3">
+                    @Html.DisplayNameFor(model => model.categoria)
+                    @Html.TextBoxFor(model => model.categoria, new { @class = "form-control", @readonly = "true" })
+                </div>
+                <div class="form-group col-lg-3">
+                    @Html.DisplayNameFor(model => model.tipoArmazenamento)
+                    @Html.TextBoxFor(model => model.tipoArmazenamento, new { @class = "form-control", @readonly = "true" })
+                </div>
+                <div class="form-group col-lg-3">
+                    @Html.DisplayNameFor(model => model.produtoControlado)
+                    @Html.TextBoxFor(model => model.produtoControlado, new { @class = "form-control", @readonly = "true" })
+                </div>
+                <div class="form-group col-lg-3">
+                    @Html.DisplayNameFor(model => model.exclusivoHospitalar)
+                    @Html.TextBoxFor(model => model.exclusivoHospitalar, new { @class = "form-control", @readonly = "true" })
+                </div>
+                <div class="form-group col-lg-3">
+                    @Html.DisplayNameFor(model => model.classificacaofiscal)
+                    @Html.TextBoxFor(model => model.classificacaofiscal, new { @class = "form-control", @readonly = "true" })
+                </div>
+                <div class="form-group col-lg-3">
+                    @Html.DisplayNameFor(model => model.nacionalImportado)
+                    @Html.TextBoxFor(model => model.nacionalImportado, new { @class = "form-control", @readonly = "true" })
+                </div>
+                <div class="form-group col-lg-3">
+                    @Html.DisplayNameFor(model => model.nacionalImportado)
+                    @Html.TextBoxFor(model => model.nacionalImportado, new { @class = "form-control", @readonly = "true" })
+                </div>
+
+                <div class="form-group col-lg-3">
+                    @Html.DisplayNameFor(model => model.obs)
+                    @Html.TextBoxFor(model => model.obs, new { @class = "form-control", @readonly = "true" })
+                </div>
+
+                <div class="form-group col-lg-3">
+                    @Html.DisplayNameFor(model => model.nivel)
+                    @Html.TextBoxFor(model => model.nivel, new { @class = "form-control", @readonly = "true" })
+                </div>
+
+                <div class="form-group col-lg-3">
+                    @Html.DisplayNameFor(model => model.aumento)
+                    @Html.TextBoxFor(model => model.aumento, new { @class = "form-control", @readonly = "true" })
+                </div>
+
+
+                <div id="tbOncoProdRS" runat="server" class="form-group col-lg-11">
+                    <fieldset>
+                        <legend>Oncoprod RS</legend>
+                        <div class="form-group col-lg-6">
+
+                            @Html.TextBoxFor(model => model.oncoProdRS, new { @class = "form-control", @MaxLengthAttributeAdapter = "auto", @readonly = "true" })
+                        </div>
+                    </fieldset>
+                </div>
+
+                <div id="tabOncoMatriz" class="form-group col-lg-12">
+                    <fieldset>
+                        <legend>Oncoprod PE</legend>
+                        <div class="form-group col-lg-4">
+                            @Html.TextBoxFor(model => model.oncoProdPE, new { @class = "form-control", @readonly = "true" })
+                        </div>
+                    </fieldset>
+                </div>
+
+                <div id="tabOncoMatriz" class="form-group col-lg-12">
+                    <fieldset>
+                        <legend>Oncoprod SP</legend>
+                        <div class="form-group col-lg-4">
+
+                            ICMS - 13,3%
+                            @Html.TextBoxFor(model => model.oncoprodSP_ICMS133, new { @class = "form-control", @readonly = "true" })
+                        </div>
+                        <div class="form-group col-lg-4">
+
+                            ICMS - 17%
+                            @Html.TextBoxFor(model => model.oncoprodSP_ICMS17, new { @class = "form-control", @readonly = "true" })
+                        </div>
+                        <div class="form-group col-lg-4">
+
+                            Clientes GO
+                            @Html.TextBoxFor(model => model.oncoprodSP_ClienteGO, new { @class = "form-control", @readonly = "true" })
+                        </div>
+                        <div class="form-group col-lg-4">
+
+                            ICMS - 17,5%
+                            @Html.TextBoxFor(model => model.oncoprodSP_ICMS175, new { @class = "form-control", @readonly = "true" })
+                        </div>
+                        <div class="form-group col-lg-4">
+
+                            ICMS - 18%
+                            @Html.TextBoxFor(model => model.oncoprodSP_ICMS18, new { @class = "form-control", @readonly = "true" })
+                        </div>
+                        <div class="form-group col-lg-4">
+
+                            Clientes SP
+                            @Html.TextBoxFor(model => model.oncoprodSP_ClienteSP, new { @class = "form-control", @readonly = "true" })
+                        </div>
+                        <div class="form-group col-lg-4">
+
+                            ICMS - 20%
+                            @Html.TextBoxFor(model => model.oncoprodSP_ICMS20, new { @class = "form-control", @readonly = "true" })
+                        </div>
+                    </fieldset>
+                </div>
+
+                <div id="tabOncoMatriz" class="form-group col-lg-12">
+                    <fieldset>
+                        <legend>Oncoprod DF</legend>
+                        <div class="form-group col-lg-4">
+
+                            ICMS - 13,3%
+                            @Html.TextBoxFor(model => model.oncoprodDF_ICMS133, new { @class = "form-control", @readonly = "true" })
+                        </div>
+                        <div class="form-group col-lg-4">
+
+                            ICMS - 17%
+                            @Html.TextBoxFor(model => model.oncoprodDF_ICMS17, new { @class = "form-control", @readonly = "true" })
+                        </div>
+                        <div class="form-group col-lg-4">
+
+                            Clientes DF
+                            @Html.TextBoxFor(model => model.oncoprodDF_ClientesDF, new { @class = "form-control", @readonly = "true" })
+                        </div>
+                        <div class="form-group col-lg-4">
+
+                            Clientes GO
+                            @Html.TextBoxFor(model => model.oncoprodDF_ClientesGO, new { @class = "form-control", @readonly = "true" })
+                        </div>
+                        <div class="form-group col-lg-4">
+
+                            ICMS - 17,5%
+                            @Html.TextBoxFor(model => model.oncoprodDF_ICMS175, new { @class = "form-control", @readonly = "true" })
+                        </div>
+                        <div class="form-group col-lg-4">
+
+                            ICMS - 18%
+                            @Html.TextBoxFor(model => model.oncoprodDF_ICMS18, new { @class = "form-control", @readonly = "true" })
+                        </div>
+                        <div class="form-group col-lg-4">
+                            ICMS - 20%
+                            @Html.TextBoxFor(model => model.oncoprodDF_ICMS20, new { @class = "form-control", @readonly = "true" })
+                        </div>
+                    </fieldset>
+                </div>
+                <div id="tabOncoMatriz" class="form-group col-lg-12">
+                    <fieldset>
+                        <legend>Oncoprod ES</legend>
+                        <div class="form-group col-lg-4">
+
+                            Clientes ES
+                            @Html.TextBoxFor(model => model.oncoprodES_ClientesES, new { @class = "form-control", @readonly = "true" })
+                        </div>
+                        <div class="form-group col-lg-4">
+
+                            Clientes SP
+                            @Html.TextBoxFor(model => model.oncoprodES_ClientesSP, new { @class = "form-control", @readonly = "true" })
+                        </div>
+                        <div class="form-group col-lg-4">
+
+                            Clientes GO
+                            @Html.TextBoxFor(model => model.oncoprodES_ClientesGO, new { @class = "form-control", @readonly = "true" })
+                        </div>
+                    </fieldset>
+                </div>
+
+                <div id="tbCMEDPF" class="form-group col-lg-12">
+                    <fieldset>
+                        <legend>Pessoa Fisica</legend>
+                        <div class="form-group col-lg-2">
+                            0%
+                            @Html.TextBoxFor(model => model.pf_0, new { @class = "form-control", @readonly = "true" })
+                        </div>
+
+                        <div class="form-group col-lg-2">
+                            12%
+                            @Html.TextBoxFor(model => model.pf_12, new { @class = "form-control", @readonly = "true" })
+                        </div>
+
+                        <div class="form-group col-lg-2">
+                            13.3%
+                            @Html.TextBoxFor(model => model.pf_133, new { @class = "form-control", @readonly = "true" })
+                        </div>
+
+                        <div class="form-group col-lg-2">
+                            17%
+                            @Html.TextBoxFor(model => model.pf_17, new { @class = "form-control", @readonly = "true" })
+                        </div>
+
+                        <div class="form-group col-lg-2">
+                            17,5%
+                            @Html.TextBoxFor(model => model.pf_175, new { @class = "form-control", @readonly = "true" })
+                        </div>
+                        <div class="form-group col-lg-2">
+                            18%
+                            @Html.TextBoxFor(model => model.pf_18, new { @class = "form-control", @readonly = "true" })
+                        </div>
+                        <div class="form-group col-lg-2">
+                            18%
+                            @Html.TextBoxFor(model => model.pf_20, new { @class = "form-control", @readonly = "true" })
+                        </div>
+                    </fieldset>
+                </div>
+
+                <div id="tbCMEDPMC" class="form-group col-lg-12">
+                    <fieldset>
+                        <legend>PMC </legend>
+                        <div class="form-group col-lg-2">
+                            0%
+                            @Html.TextBoxFor(model => model.PMC_0, new { @class = "form-control", @readonly = "true" })
+                        </div>
+
+                        <div class="form-group col-lg-2">
+                            12%
+                            @Html.TextBoxFor(model => model.PMC_12, new { @class = "form-control", @readonly = "true" })
+                        </div>
+
+                        <div class="form-group col-lg-2">
+                            13.3%
+                            @Html.TextBoxFor(model => model.PMC_133, new { @class = "form-control", @readonly = "true" })
+                        </div>
+
+                        <div class="form-group col-lg-2">
+                            17%
+                            @Html.TextBoxFor(model => model.PMC_17, new { @class = "form-control", @readonly = "true" })
+                        </div>
+
+                        <div class="form-group col-lg-2">
+                            17,5%
+                            @Html.TextBoxFor(model => model.PMC_175, new { @class = "form-control", @readonly = "true" })
+                        </div>
+
+                        <div class="form-group col-lg-2">
+                            18%
+                            @Html.TextBoxFor(model => model.PMC_18, new { @class = "form-control", @readonly = "true" })
+                        </div>
+                        <div class="form-group col-lg-2">
+                            20%
+                            @Html.TextBoxFor(model => model.PMC_20, new { @class = "form-control", @readonly = "true" })
+                        </div>
+                    </fieldset>
+                </div>
+
+
+
+                <div class="form-group col-lg-12">
+                    @Html.DisplayNameFor(model => model.observacao)
+                    @Html.TextAreaFor(model => model.observacao, new { @class = "form-control", @rows = "2", @readonly = "true" })
+                </div>
+            </form>
+        </div>
+
+        <div class="row">
+            <div class="col-md-8">
+                <div>
+                    <div class="pull-left">
+                        <a class="btn btn-primary" href="@Url.Action("Index", "TabelaPrecoOncoprod")">
+                            <span title="Detalhes" class="glyphicon glyphicon-menu-left"></span>
+                            Voltar
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+}
+
+<style>
+    fieldset {
+        border: 1px solid #ddd !important;
+        margin: 0;
+        padding: 10px;
+        position: relative;
+        border-radius: 4px;
+        background-color: #ffffff;
+        padding-left: 10px !important;
+    }
+
+    legend {
+        font-size: 14px;
+        font-weight: bold;
+        margin-bottom: 0px;
+        width: 22%;
+        border: 0px solid #ddd;
+        border-radius: 4px;
+        padding: 5px 5px 5px 10px;
+        background-color: #ffffff;
+    }
+</style>

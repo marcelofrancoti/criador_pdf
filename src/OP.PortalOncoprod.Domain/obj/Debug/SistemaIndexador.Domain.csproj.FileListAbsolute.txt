@@ -1,0 +1,59 @@
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\bin\Debug\OP.PortalOncoprod.Domain.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\bin\Debug\OP.PortalOncoprod.Domain.pdb
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\bin\Debug\DomainValidation.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\obj\Debug\SistemaIndexador.Domain.csproj.CoreCompileInputs.cache
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\obj\Debug\SistemaIndexador.Domain.csproj.CopyComplete
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.pdb
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\bin\Debug\OP.PortalOncoprod.Domain.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\bin\Debug\OP.PortalOncoprod.Domain.pdb
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\bin\Debug\DomainValidation.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\obj\Debug\SistemaIndexador.Domain.csproj.AssemblyReference.cache
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\obj\Debug\SistemaIndexador.Domain.csproj.CoreCompileInputs.cache
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\obj\Debug\SistemaIndexador.Domain.csproj.CopyComplete
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.pdb
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\bin\Debug\OP.PortalOncoprod.Domain.dll
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\bin\Debug\OP.PortalOncoprod.Domain.pdb
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\bin\Debug\DomainValidation.dll
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\obj\Debug\SistemaIndexador.Domain.csproj.AssemblyReference.cache
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\obj\Debug\SistemaIndexador.Domain.csproj.CoreCompileInputs.cache
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\obj\Debug\SistemaIndexador.Domain.csproj.CopyComplete
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.dll
+C:\Users\redbu\OneDrive\Documentos\Projeto - JSL\SistemWebIndexador\SistemaIndexador\src\OP.PortalOncoprod.Domain\obj\Debug\OP.PortalOncoprod.Domain.pdb

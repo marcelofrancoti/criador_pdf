@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1F3C015B-B02E-43F9-A109-FD9CBE6663DA}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>TesteUnityCadUsuarioUsuario</RootNamespace>
+    <AssemblyName>TesteUnityCadUsuarioUsuario</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClassTesteSelect.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\src\OP.PortalOncoprod.Application\OP.PortalOncoprod.Application.csproj">
+      <Project>{b93b8c46-0793-42f7-9595-2a2fe7ae74c7}</Project>
+      <Name>OP.PortalOncoprod.Application</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\src\OP.PortalOncoprod.Domain\OP.PortalOncoprod.Domain.csproj">
+      <Project>{622528af-6221-48e0-82be-4224a0ddb632}</Project>
+      <Name>OP.PortalOncoprod.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\src\OP.PortalOncoprod.Infra.CrossCutting.IoC\OP.PortalOncoprod.Infra.CrossCutting.IoC.csproj">
+      <Project>{882737a9-b60b-447a-b23b-f89c6174d61f}</Project>
+      <Name>OP.PortalOncoprod.Infra.CrossCutting.IoC</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\src\OP.PortalOncoprod.Infra.CrossCutting.Logging\OP.PortalOncoprod.Infra.CrossCutting.Logging.csproj">
+      <Project>{7a90bca8-cefc-4902-91c9-b08124d0c6ce}</Project>
+      <Name>OP.PortalOncoprod.Infra.CrossCutting.Logging</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\src\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.csproj">
+      <Project>{026168e3-fcc3-4911-b6cf-8acaff0eec59}</Project>
+      <Name>OP.PortalOncoprod.Infra.CrossCutting.MvcFilters</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\src\OP.PortalOncoprod.Infra.Data\OP.PortalOncoprod.Infra.Data.csproj">
+      <Project>{5f831aec-69ec-4d6f-8808-aa3cd2c71141}</Project>
+      <Name>OP.PortalOncoprod.Infra.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\src\OP.PortalOncoprod.Services.REST.ClienteAPI\OP.PortalOncoprod.Services.REST.ClienteAPI.csproj">
+      <Project>{adad8f18-0104-4930-8661-5b4af4f79a00}</Project>
+      <Name>OP.PortalOncoprod.Services.REST.ClienteAPI</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\src\OP.PortalOncoprod.UI.Mvc\OP.PortalOncoprod.UI.Mvc.csproj">
+      <Project>{b5c6f2eb-8fb1-450c-9489-0280c86d97d4}</Project>
+      <Name>OP.PortalOncoprod.UI.Mvc</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\tests\OP.PortalOncoprod.Domain.Tests\OP.PortalOncoprod.Domain.Tests.csproj">
+      <Project>{e159fab2-5943-404c-898c-aacfb684784d}</Project>
+      <Name>OP.PortalOncoprod.Domain.Tests</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

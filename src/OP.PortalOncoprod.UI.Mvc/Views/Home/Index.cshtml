@@ -1,0 +1,273 @@
+﻿@model SistemaIndexador.Application.ViewModels.DadosIndexacaoViewModel
+
+
+<script>
+    $(document).ready(function () {
+        $("#cpf").mask("999.999.999-99");
+        $("#matricula").mask("99999999999");
+        $("#ref_a").mask("99999999999");
+        $("#ref_b").mask("99999999999");
+        $("#validade").mask("99/99/9999");
+    });
+</script>
+
+
+@*@using (Html.BeginForm("Upload", "Home", FormMethod.Post))
+    {*@
+<div class="modal-dialog " style="width:auto">
+    <div class="modal-content">
+        <div class="modal-body" style=" padding: 10px 10px 9% 10px;">
+            <form style=" margin-bottom: 0px; " id="formDados">
+
+                <div class="form-row">
+                    <div class="form-group col-md-12">
+                        <label>Matricula</label>
+                        @Html.TextBoxFor(model => model.matricula, new { @class = "form-control " })
+
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-md-12">
+                        <label for="inputCity">CPF</label>
+                        @Html.TextBoxFor(model => model.cpf, new { @class = "form-control" })
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-md-4">
+                        <label for="inputCity">Referencia</label>
+                        @Html.TextBoxFor(model => model.ref_a, new { @class = "form-control" })
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-md-8" style="">
+                        <label for="inputCity">/</label>
+                        @Html.TextBoxFor(model => model.ref_b, new { @class = "form-control" })
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-md-12">
+                        <label for="inputCity">Validade</label>
+                        @Html.TextBoxFor(model => model.validade, new { @class = "form-control" })
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-md-12">
+                        <label for="inputCity">Tipo Documento</label>
+                        @Html.DropDownListFor(m => m.TipoDocSelected, new SelectList(Model.TipoDoc), "Selecione Tipo de Documento", new { @class = "form-control" })
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-md-9">
+                        <label for="inputCity">Anexar Documento</label>
+                        <input type="file" name="files[]" multiple="multiple" onchange="getFileName(this);" class="btn-warning" />
+                    </div>
+                </div>
+
+            </form>
+            <div class="form-row" style="float:right">
+                <div class="form-group col-md-12">
+                    <button class="btn btn-primary" type="submit" id="tbnEnviarArquivos">Salvar Arquivos</button>
+                </div>
+            </div>
+            <div style="float:right;">
+                <label for="inputCity">Visualizar Arquivos Renomeados</label>
+                <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal2">Indexados</button>
+            </div>
+
+            <div style="float:left;">
+                <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Visualizar</button>
+                <label for="inputCity">Arquivos Indexados</label>
+            </div>
+        </div>
+
+       
+    </div>
+</div>
+
+
+
+<div class="container">
+    <div class="modal fade" id="myModal" role="dialog">
+        <div class="modal-dialog">
+            <div class="modal-content" style="margin:100px 0 0 0">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Arquivos Indexados</h4>
+                </div>
+                <div class="modal-body">
+                    <form method="post" id="uploadForm" enctype="multipart/form-data">
+                        <table class="table">
+                            <tr>
+                                <td colspan="3">
+                                    <div id="uploaddiv">
+                                        <table id="uploadTable" class="table">
+                                            <thead>
+                                                <tr><th>Nome Arquivo</th> </tr>
+                                            </thead>
+                                            <tbody id="tbodyid"></tbody>
+                                        </table>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+                    </form>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</div>
+
+@*}*@
+
+
+@if (Model != null && Model.ListaAquivos.Count > 0)
+{
+    <div class="container">
+        <div class="modal fade" id="myModal2" role="dialog">
+            <div class="modal-dialog">
+                <div class="modal-content" style="margin:40px 0 0 0">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h4 class="modal-title">Arquivos Indexados</h4>
+                    </div>
+                    <div class="modal-body">
+
+                        <form method="post" id="uploadForm" enctype="multipart/form-data">
+
+                            <table class="table table-hover">
+                                <thead>
+                                    <tr>
+                                        <th>Nome Arquivo</th>
+                                    </tr>
+                                </thead>
+
+                                <tbody>
+
+                                    @if (Model != null && Model.ListaAquivos.Count > 0)
+                                    {
+
+                                        for (int i = 0; i < Model.ListaAquivos.Count; i++)
+                                        {
+
+                                            <tr>
+                                                <td>
+                                                    <div class="accordion" id="accordionExample">
+                                                        <div class="card">
+                                                            <div class="card-header" id="headingOne">
+                                                                <h2 class="mb-0">
+                                                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse_@i" aria-controls="collapseOne">
+                                                                        @Model.ListaAquivos[i].Nome;
+                                                                    </button>
+                                                                </h2>
+                                                            </div>
+
+                                                            <div id="collapse_@i" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                                                                <div class="card-body">
+                                                                    <iframe src="data:application/pdf;base64, @Model.ListaAquivos[i].ImagemArquivo" style=" width: 100%;height: 600px"></iframe>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        }
+                                    }
+
+                                </tbody>
+                            </table>
+
+
+
+                        </form>
+
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                        <button class="btn btn-primary" type="submit" id="tbnEnviarArquivos">Integrar Arquivos</button>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<script type="text/javascript">
+
+
+    function getFileName(input) {
+
+        var select = $('#uploadTable');
+        var cont = 0;
+        for (var i = 0; i < input.files.length; i++) {
+            var filename = input.files[i].name;
+
+            var file = new FileReader();
+            file.onload = function (e) {
+                document.getElementById("preview").src = e.target.result;
+            };
+            file.readAsDataURL(input.files[i]);
+
+            select.append($('<tr id=tr' + i + '><td id=filetd' + i + '><div class="accordion" id="accordionExample"><div class="card"><div class="card-header" id="headingOne"><h2 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse_' + i + '" aria-controls="collapseOne">' + filename + '</button></h2></div><div id="collapse_' + i + '" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample"><div class="card-body"> <iframe  id="preview" src=""  style=" width: 100%;height: 600px"></iframe></div></div></div></div></td></tr>'));
+
+
+
+        }
+
+
+    }
+
+
+
+    $(document).ready(function () {
+        $('#tbnEnviarArquivos').on('click', function () {
+            if (ValidaCamposPreenchidos()) {
+
+                var data = new FormData();
+                var files = $('[type="file"]').get(0).files;
+                for (var i = 0; i < files.length; i++) {
+                    data.append("file", files[i]);
+                }
+
+                data.append("matricula", $("#matricula").val());
+                data.append("cpf", $("#cpf").val());
+                data.append("ref_a", $("#ref_a").val());
+                data.append("validade", $("#validade").val());
+                data.append("TipoDocSelected", $("#TipoDocSelected").val());
+
+                $.ajax({
+                    type: "POST",
+                    url: "/Home/Upload",
+                    contentType: false,
+                    processData: false,
+                    data: data,
+                    success: function (message) {
+                        window.location.href = "/Home/Index"
+                        alert("Arquivos indexados com sucesso.")
+                    },
+                    error: function () {
+                        window.location.href = "/Home/Index"
+                        alert("Erro ao enviar");
+                    }
+                });
+            }
+
+        })
+    });
+    function ValidaCamposPreenchidos() {
+
+        if ($("#matricula").val() == "" && $("#cpf").val() == "" && $("#ref_a").val() == "" && $("#validade").val() == "" && $("#TipoDocSelected").val() == "") {
+            alert("Favor verificar campos");
+            return false;
+        } else {
+            return true;
+        }
+    }
+
+
+</script>

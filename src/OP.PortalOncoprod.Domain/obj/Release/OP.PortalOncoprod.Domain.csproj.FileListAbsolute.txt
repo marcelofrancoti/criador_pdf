@@ -1,0 +1,40 @@
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Release\DomainValidation.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Release\OP.PortalOncoprod.Domain.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Release\OP.PortalOncoprod.Domain.pdb
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Release\System.Web.Mvc.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Release\System.Web.Razor.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Release\System.Web.WebPages.Razor.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Release\System.Web.WebPages.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Release\System.Web.WebPages.Deployment.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Release\System.Web.Mvc.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Release\System.Web.Razor.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Release\System.Web.WebPages.Razor.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Release\System.Web.WebPages.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Release\Microsoft.Web.Infrastructure.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\bin\Release\System.Web.WebPages.Deployment.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\obj\Release\OP.PortalOncoprod.Domain.csprojResolveAssemblyReference.cache
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\obj\Release\OP.PortalOncoprod.Domain.csproj.CoreCompileInputs.cache
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\obj\Release\OP.PortalOncoprod.Domain.csproj.CopyComplete
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\obj\Release\OP.PortalOncoprod.Domain.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.Domain\obj\Release\OP.PortalOncoprod.Domain.pdb
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Release\OP.PortalOncoprod.Domain.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Release\OP.PortalOncoprod.Domain.pdb
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Release\DomainValidation.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Release\System.Web.Mvc.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Release\System.Web.Razor.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Release\System.Web.WebPages.Razor.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Release\System.Web.WebPages.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Release\System.Web.Mvc.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Release\System.Web.Razor.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Release\System.Web.WebPages.Razor.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Release\System.Web.WebPages.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Release\Microsoft.Web.Infrastructure.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\obj\Release\OP.PortalOncoprod.Domain.csproj.AssemblyReference.cache
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\obj\Release\OP.PortalOncoprod.Domain.csproj.CoreCompileInputs.cache
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\obj\Release\OP.PortalOncoprod.Domain.csproj.CopyComplete
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\obj\Release\OP.PortalOncoprod.Domain.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.Domain\obj\Release\OP.PortalOncoprod.Domain.pdb

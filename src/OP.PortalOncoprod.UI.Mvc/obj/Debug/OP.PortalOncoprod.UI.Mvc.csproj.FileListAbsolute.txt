@@ -1,0 +1,968 @@
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.UI.Mvc.dll.config
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.UI.Mvc.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.UI.Mvc.pdb
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Antlr3.Runtime.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\DomainValidation.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.SqlServer.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\LinqToExcel.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\LumenWorks.Framework.IO.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Google.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Web.Infrastructure.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Newtonsoft.Json.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Application.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Domain.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.IoC.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.Data.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Owin.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Remotion.Data.Linq.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Remotion.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Remotion.Interfaces.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.Mvc.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Helpers.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Http.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Mvc.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Optimization.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Razor.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Deployment.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Razor.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\WebActivator.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\WebGrease.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\AutoMapper.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Dapper.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Application.pdb
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Domain.pdb
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.IoC.pdb
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.pdb
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.Data.pdb
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.Data.dll.config
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Antlr3.Runtime.pdb
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.SqlServer.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\LinqToExcel.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\LumenWorks.Framework.IO.pdb
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\LumenWorks.Framework.IO.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Newtonsoft.Json.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.Mvc.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Helpers.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Http.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Mvc.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Razor.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Deployment.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Razor.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Optimization.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Google.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\AutoMapper.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.pdb
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll.config
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Dapper.pdb
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Dapper.xml
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csprojResolveAssemblyReference.cache
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.Migrations.InitialCreate.resources
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.App_GlobalResources.Resources.resources
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csproj.GenerateResource.cache
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csproj.CoreCompileInputs.cache
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csproj.CopyComplete
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.dll
+D:\Projetos\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.pdb
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.UI.Mvc.dll.config
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.UI.Mvc.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.UI.Mvc.pdb
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Antlr3.Runtime.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\DomainValidation.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.SqlServer.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\LinqToExcel.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\LumenWorks.Framework.IO.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Newtonsoft.Json.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Application.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Domain.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.IoC.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.Data.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Owin.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Remotion.Data.Linq.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Remotion.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Remotion.Interfaces.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Helpers.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Http.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Mvc.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Optimization.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Razor.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\WebActivator.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\WebGrease.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\AutoMapper.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Dapper.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Application.pdb
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Domain.pdb
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.IoC.pdb
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.pdb
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.Data.pdb
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.Data.dll.config
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Antlr3.Runtime.pdb
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.SqlServer.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\LinqToExcel.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\LumenWorks.Framework.IO.pdb
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\LumenWorks.Framework.IO.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Newtonsoft.Json.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Helpers.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Http.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Mvc.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Razor.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Optimization.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\AutoMapper.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.pdb
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll.config
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Dapper.pdb
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Dapper.xml
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.Migrations.InitialCreate.resources
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.App_GlobalResources.Resources.resources
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csproj.GenerateResource.Cache
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.dll
+C:\Users\Marcelo\Desktop\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.pdb
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.UI.Mvc.dll.config
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.UI.Mvc.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.UI.Mvc.pdb
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Antlr3.Runtime.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\DomainValidation.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.SqlServer.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\LinqToExcel.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\LumenWorks.Framework.IO.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Newtonsoft.Json.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Application.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Domain.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.IoC.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.Data.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Owin.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Remotion.Data.Linq.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Remotion.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Remotion.Interfaces.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Helpers.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Http.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Mvc.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Optimization.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Razor.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\WebActivator.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\WebGrease.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\AutoMapper.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Dapper.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Application.pdb
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Domain.pdb
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.IoC.pdb
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.pdb
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.Data.pdb
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.Data.dll.config
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Antlr3.Runtime.pdb
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.SqlServer.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\LinqToExcel.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\LumenWorks.Framework.IO.pdb
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\LumenWorks.Framework.IO.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Newtonsoft.Json.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Helpers.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Http.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Mvc.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Razor.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Optimization.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\AutoMapper.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.pdb
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll.config
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Dapper.pdb
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Dapper.xml
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.Migrations.InitialCreate.resources
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.App_GlobalResources.Resources.resources
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csproj.GenerateResource.Cache
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.dll
+C:\Users\Marcelo\Desktop\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.pdb
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.UI.Mvc.dll.config
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.UI.Mvc.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.UI.Mvc.pdb
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Antlr3.Runtime.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\DomainValidation.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\LinqToExcel.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\LumenWorks.Framework.IO.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Newtonsoft.Json.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Application.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Domain.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.IoC.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.Data.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Owin.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Remotion.Data.Linq.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Remotion.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Remotion.Interfaces.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Helpers.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Http.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Mvc.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Optimization.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Razor.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\WebActivator.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\WebGrease.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\AutoMapper.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Dapper.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Application.pdb
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Domain.pdb
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.IoC.pdb
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.pdb
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.Data.pdb
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.Data.dll.config
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Antlr3.Runtime.pdb
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\LinqToExcel.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\LumenWorks.Framework.IO.pdb
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\LumenWorks.Framework.IO.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Newtonsoft.Json.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Helpers.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Http.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Mvc.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Razor.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Optimization.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\AutoMapper.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.pdb
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll.config
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Dapper.pdb
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Dapper.xml
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csprojAssemblyReference.cache
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.Migrations.InitialCreate.resources
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.App_GlobalResources.Resources.resources
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csproj.GenerateResource.cache
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csproj.CopyComplete
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.dll
+C:\Users\User\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.UI.Mvc.dll.config
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.UI.Mvc.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.UI.Mvc.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Antlr3.Runtime.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\DomainValidation.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.SqlServer.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\LinqToExcel.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\LumenWorks.Framework.IO.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Newtonsoft.Json.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Application.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Domain.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.IoC.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.Data.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Owin.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Remotion.Data.Linq.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Remotion.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Remotion.Interfaces.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Helpers.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Http.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Mvc.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Optimization.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Razor.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\WebActivator.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\WebGrease.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\AutoMapper.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Dapper.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Application.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Domain.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.IoC.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.Data.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.Data.dll.config
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Antlr3.Runtime.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.SqlServer.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\LinqToExcel.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\LumenWorks.Framework.IO.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\LumenWorks.Framework.IO.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Newtonsoft.Json.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Helpers.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Http.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Mvc.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Razor.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Optimization.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\AutoMapper.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll.config
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Dapper.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\bin\Dapper.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csprojAssemblyReference.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.Migrations.InitialCreate.resources
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.App_GlobalResources.Resources.resources
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csproj.GenerateResource.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csproj.CoreCompileInputs.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csproj.CopyComplete
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.UI.Mvc.dll.config
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.UI.Mvc.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.UI.Mvc.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Antlr3.Runtime.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\DomainValidation.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.SqlServer.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\LinqToExcel.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\LumenWorks.Framework.IO.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Newtonsoft.Json.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Application.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Domain.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.IoC.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.Data.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Owin.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Remotion.Data.Linq.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Remotion.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Remotion.Interfaces.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Helpers.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Http.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Mvc.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Optimization.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Razor.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\WebActivator.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\WebGrease.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\AutoMapper.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Dapper.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Application.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Domain.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.IoC.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.Data.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.Data.dll.config
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Antlr3.Runtime.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.SqlServer.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\LinqToExcel.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\LumenWorks.Framework.IO.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\LumenWorks.Framework.IO.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Newtonsoft.Json.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Helpers.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Http.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Mvc.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Razor.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Optimization.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\AutoMapper.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll.config
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Dapper.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Dapper.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csprojAssemblyReference.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.Migrations.InitialCreate.resources
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.App_GlobalResources.Resources.resources
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csproj.GenerateResource.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csproj.CopyComplete
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csproj.CoreCompileInputs.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.UI.Mvc.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.UI.Mvc.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Antlr3.Runtime.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\DomainValidation.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.SqlServer.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\LinqToExcel.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\LumenWorks.Framework.IO.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Newtonsoft.Json.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Application.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Domain.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.IoC.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.Data.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Owin.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Remotion.Data.Linq.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Remotion.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Remotion.Interfaces.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Helpers.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Http.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Mvc.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Optimization.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Razor.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\WebActivator.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\WebGrease.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\AutoMapper.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Dapper.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Application.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Domain.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.IoC.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.Data.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Antlr3.Runtime.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.SqlServer.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\LinqToExcel.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\LumenWorks.Framework.IO.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\LumenWorks.Framework.IO.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Newtonsoft.Json.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Helpers.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Http.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Mvc.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Razor.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Optimization.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\AutoMapper.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Dapper.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\Dapper.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.Migrations.InitialCreate.resources
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.App_GlobalResources.Resources.resources
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csproj.GenerateResource.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.UI.Mvc.dll.config
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.Data.dll.config
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll.config
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csprojAssemblyReference.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csproj.CopyComplete
+C:\Users\MARCELO\Documents\Projetos OncoProd\OLD_PortalConsultasOncoprod_ONCOSALE\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csproj.CoreCompileInputs.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.UI.Mvc.dll.config
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.UI.Mvc.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.UI.Mvc.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Antlr3.Runtime.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\DomainValidation.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.SqlServer.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\LinqToExcel.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\LumenWorks.Framework.IO.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Newtonsoft.Json.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Application.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Domain.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.IoC.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.Data.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Owin.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Remotion.Data.Linq.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Remotion.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Remotion.Interfaces.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Helpers.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Http.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Mvc.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Optimization.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Razor.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\WebActivator.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\WebGrease.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\AutoMapper.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Dapper.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Application.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Domain.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.IoC.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.Data.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.Data.dll.config
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Antlr3.Runtime.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.SqlServer.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\LinqToExcel.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\LumenWorks.Framework.IO.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\LumenWorks.Framework.IO.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Newtonsoft.Json.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Helpers.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Http.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Mvc.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Razor.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Optimization.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\AutoMapper.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll.config
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Dapper.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Dapper.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csprojAssemblyReference.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.Migrations.InitialCreate.resources
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.App_GlobalResources.Resources.resources
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csproj.GenerateResource.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csproj.CoreCompileInputs.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csproj.CopyComplete
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.pdb
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.UI.Mvc.dll.config
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.UI.Mvc.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.UI.Mvc.pdb
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Antlr3.Runtime.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\DomainValidation.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.SqlServer.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\LinqToExcel.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\LumenWorks.Framework.IO.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Newtonsoft.Json.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Application.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Domain.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.IoC.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.Data.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Owin.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Remotion.Data.Linq.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Remotion.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Remotion.Interfaces.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Helpers.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Http.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Mvc.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Optimization.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Razor.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\WebActivator.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\WebGrease.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\AutoMapper.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Dapper.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Application.pdb
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Domain.pdb
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.IoC.pdb
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.pdb
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.Data.pdb
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.Data.dll.config
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Antlr3.Runtime.pdb
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.SqlServer.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\LinqToExcel.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\LumenWorks.Framework.IO.pdb
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\LumenWorks.Framework.IO.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Newtonsoft.Json.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Helpers.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Http.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Mvc.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Razor.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Optimization.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\AutoMapper.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.pdb
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll.config
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Dapper.pdb
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\bin\Dapper.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csproj.AssemblyReference.cache
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.Migrations.InitialCreate.resources
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.App_GlobalResources.Resources.resources
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csproj.GenerateResource.cache
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csproj.CoreCompileInputs.cache
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csproj.CopyComplete
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\Tabela de Preço PortalConculta\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.pdb
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.UI.Mvc.dll.config
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.UI.Mvc.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.UI.Mvc.pdb
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\Antlr3.Runtime.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\DomainValidation.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.SqlServer.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\LinqToExcel.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\LumenWorks.Framework.IO.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\Newtonsoft.Json.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Application.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Domain.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.IoC.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.Data.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\Owin.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\Remotion.Data.Linq.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\Remotion.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\Remotion.Interfaces.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Helpers.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Http.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Mvc.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Optimization.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Razor.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\WebActivator.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\WebGrease.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\AutoMapper.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\Dapper.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Application.pdb
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Domain.pdb
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.IoC.pdb
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.MvcFilters.pdb
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.Data.pdb
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.Data.dll.config
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\Antlr3.Runtime.pdb
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\EntityFramework.SqlServer.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\LinqToExcel.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\LumenWorks.Framework.IO.pdb
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\LumenWorks.Framework.IO.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\Newtonsoft.Json.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Helpers.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Http.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Mvc.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Razor.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\System.Web.Optimization.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\AutoMapper.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.pdb
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\OP.PortalOncoprod.Infra.CrossCutting.Logging.dll.config
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\Dapper.pdb
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\bin\Dapper.xml
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csproj.AssemblyReference.cache
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.Migrations.InitialCreate.resources
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.App_GlobalResources.Resources.resources
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csproj.GenerateResource.cache
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csproj.CoreCompileInputs.cache
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.csproj.CopyComplete
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\Projeto - JSL\SistemWebIndexador\PortalConsulta\src\OP.PortalOncoprod.UI.Mvc\obj\Debug\OP.PortalOncoprod.UI.Mvc.pdb

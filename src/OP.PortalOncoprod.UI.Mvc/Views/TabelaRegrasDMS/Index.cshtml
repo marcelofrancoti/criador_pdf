@@ -1,0 +1,183 @@
+﻿@model IEnumerable<SistemaIndexador.Application.ViewModels.TabelaRegrasDMSViewModel>
+@using SistemaIndexador.Application.ViewModels
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Index";
+}
+
+<br />
+<br />
+<br />
+@using (Html.BeginForm("Index", "TabelaRegrasDMS", FormMethod.Get))
+{
+    <div class="container-fluid" style="max-width: 100%;">
+
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item" style="text-transform: uppercase;"><a href="#">Regras DMS</a></li>
+                <li class="breadcrumb-item active" style="text-transform: uppercase;" aria-current="page">Consultar</li>
+            </ol>
+        </nav>
+
+        <div class="row">
+            <div class="col-md-8">
+                <div>
+                    <div class="pull-left">
+                        <a href="@Url.Action("ImportaExcel", "TabelaRegrasDMS")" class="btn btn-primary">
+                            Tabela Regras DMS
+                            <span title="Detalhes" class="glyphicon glyphicon-plus-sign"></span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <br />
+        <div class="table-responsive">
+            <br />
+            <table id="tabela" class="tabela table table-striped table-bordered table-condensed table-hover" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Id)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.CodGrupo)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.DescricaoOutrosDocs)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Regra)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Infotipo)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Subinfotipo)
+                        </th>
+
+                        <th>
+                            @Html.DisplayNameFor(model => model.Obrigatorio)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.GrupoAutorizacoes)
+                        </th>
+                        @*
+
+                            <th>
+                                @Html.DisplayNameFor(model => model.FormularioKitAdmissao)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.OutrosDocumentosControlados)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.NomeFuncao)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.TipoMedida)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.NomeUsuario)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Data)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.CampoDoCtg)
+                            </th>
+
+                        *@
+                        <th>
+
+                        </th>
+                    </tr>
+                </thead>
+
+                <tbody>
+
+                    @foreach (var item in Model)
+                    {
+
+                        if (!string.IsNullOrEmpty(item.Id.ToString()))
+                        {
+                            <tr>
+                                <td id="codigo">
+                                    @Html.DisplayFor(modelItem => item.Id)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.CodGrupo)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.DescricaoOutrosDocs)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Regra)
+                                </td>
+
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Infotipo)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Subinfotipo)
+                                </td>
+
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Obrigatorio)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.GrupoAutorizacoes)
+                                </td>
+                                @*
+                                          <td>
+                                        @Html.DisplayFor(modelItem => item.FormularioKitAdmissao)
+                                    </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.OutrosDocumentosControlados)
+                                        </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.NomeFuncao)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.TipoMedida)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.NomeUsuario)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.Data)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.CampoDoCtg)
+                                            </td>
+
+                                *@
+
+                                <td>
+                                    @Html.ActionLink(" ", "Visualizar", "TabelaRegrasDMS", new { id = item.Id }, new { @class = "btn btn-default class glyphicon glyphicon-eye-open" })
+                                </td>
+
+                            </tr>
+                        }
+
+                    }
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+}
+
+<script>
+    $(document).ready(function () {
+        $('.tabela').dataTable({
+            "language": { "paginate": { "next": "Próximo", "sPrevious": "Anterior", "search": "Pesquisar" } }
+        });
+
+    });
+</script>
+
+
+
